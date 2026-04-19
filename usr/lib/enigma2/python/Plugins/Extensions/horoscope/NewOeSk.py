@@ -1,6 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from __future__ import absolute_import, print_function
+from os.path import isfile
+from re import search
+__author__ = "Lululla"
+__email__ = "ekekaz@gmail.com"
+__copyright__ = 'Copyright (c) 2024 Lululla'
+__license__ = "GPL-v2"
+
 # ======================================================================
 # LinuxsatPanel Plugin
 # Coded by masterG - oktus - pcd
@@ -16,14 +24,6 @@
 # all and you must make the modified
 # code open to everyone. by Lululla
 # ======================================================================
-from __future__ import absolute_import, print_function
-from os.path import isfile
-from re import search
-__author__ = "Lululla"
-__email__ = "ekekaz@gmail.com"
-__copyright__ = 'Copyright (c) 2024 Lululla'
-__license__ = "GPL-v2"
-from . import __version__
 
 
 def newOE():
