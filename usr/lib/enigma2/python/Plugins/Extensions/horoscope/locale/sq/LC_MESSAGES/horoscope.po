@@ -16,107 +16,88 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-1\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
-#: plugin.py:43
-#, python-format
-msgid ""
-"Horoscope v.%s\n"
-"\n"
-"Author: Lululla\n"
-"\n"
-"Graphics: Oktus\n"
-"\n"
-"Rss Horoscope: https://www.findyourfate.com\n"
-"\n"
-msgstr ""
-"Horoskopi v.%s\n"
-"\n"
-"Autor: Lululla\n"
-"\n"
-"Grafika: Oktus\n"
-"\n"
-"Horoskopi RSS: https://www.findyourfate.com\n"
-"\n"
+msgid "0 - Halign Left"
+msgstr "0 - Lini majtas"
 
-#: plugin.py:114 plugin.py:140
-msgid "Please wait, connecting to the server..."
-msgstr "Ju lutem prisni, duke u lidhur me serverin..."
+msgid "0 - Halign Right"
+msgstr "0 - Përcaktoni djathtas"
 
-#: plugin.py:119
-msgid "Change"
-msgstr "Kusur"
-
-#: plugin.py:120 plugin.py:240 plugin.py:339
-msgid "Information"
-msgstr "Informacion"
-
-#: plugin.py:180 plugin.py:360
-msgid "Today's Horoscope "
-msgstr "Horoskopi i sotëm "
-
-#: plugin.py:204
-msgid "Sign not found"
-msgstr "Shenja nuk u gjet"
-
-#: plugin.py:315
-msgid "ARIES"
-msgstr "ARIES"
-
-#: plugin.py:315
-msgid "TAURUS"
-msgstr "TAURUS"
-
-#: plugin.py:315
-msgid "GEMINI"
-msgstr "GEMINI"
-
-#: plugin.py:315
-msgid "CANCER"
-msgstr "KANCERI"
-
-#: plugin.py:316
-msgid "LION"
-msgstr "LUANI"
-
-#: plugin.py:316
-msgid "VIRGIN"
-msgstr "VIRGJËRESHA"
-
-#: plugin.py:316
-msgid "LIBRA"
-msgstr "LIBRA"
-
-#: plugin.py:316
-msgid "SCORPION"
-msgstr "AKREPI"
-
-#: plugin.py:317
-msgid "SAGITTARIUS"
-msgstr "SAGITTARIUS"
-
-#: plugin.py:317
-msgid "CAPRICORN"
-msgstr "BRICJAPI"
-
-#: plugin.py:317
 msgid "AQUARIUS"
 msgstr "UJORI"
 
-#: plugin.py:317
-msgid "PISCES"
-msgstr "PESHQIT"
+msgid "ARIES"
+msgstr "ARIES"
 
-#: plugin.py:321
-msgid "Select a Zodiac Sign"
-msgstr "Zgjidh shenjën e Zodiakut"
+msgid "CANCER"
+msgstr "KANCERI"
 
-#: plugin.py:324
+msgid "CAPRICORN"
+msgstr "BRICJAPI"
+
 msgid "Close"
 msgstr "Mbyll"
 
-#: plugin.py:325
+msgid "GEMINI"
+msgstr "GEMINI"
+
+#, fuzzy
+msgid "Global Horoscope"
+msgstr "Horoskopi"
+
+#, fuzzy
+msgid "Horoscope v.%s"
+msgstr "Horoskopi"
+
+msgid "Information"
+msgstr "Informacion"
+
+msgid "LEO"
+msgstr "LUANI"
+
+msgid "LIBRA"
+msgstr "LIBRA"
+
+msgid "PISCES"
+msgstr "PESHQIT"
+
+#, fuzzy
+msgid "Please Select"
+msgstr "Zgjedh"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Ju lutem prisni, duke u lidhur me serverin..."
+
+msgid "Read"
+msgstr "Lexoni"
+
+msgid "SAGITTARIUS"
+msgstr "SAGITTARIUS"
+
+#, fuzzy
+msgid "SCORPIO"
+msgstr "AKREPI"
+
 msgid "Select"
 msgstr "Zgjedh"
 
-#: plugin.py:360
-msgid "Horoscope"
-msgstr "Horoskopi"
+msgid "TAURUS"
+msgstr "TAURUS"
+
+#, fuzzy
+msgid "VIRGO"
+msgstr "VIRGJËRESHA"
+
+#~ msgid "Change"
+#~ msgstr "Kusur"
+
+#~ msgid "Today's Horoscope "
+#~ msgstr "Horoskopi i sotëm "
+
+#~ msgid "Sign not found"
+#~ msgstr "Shenja nuk u gjet"
+
+#~ msgid "LION"
+#~ msgstr "LUANI"
+
+#~ msgid "Select a Zodiac Sign"
+#~ msgstr "Zgjidh shenjën e Zodiakut"

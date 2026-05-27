@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"
+"Language: sl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Poravnaj levo"
+
+msgid "0 - Halign Right"
+msgstr "0 - Poravnaj desno"
+
+msgid "AQUARIUS"
+msgstr "VODNAR"
+
+msgid "ARIES"
+msgstr "OVEN"
+
+msgid "CANCER"
+msgstr "RAK"
+
+msgid "CAPRICORN"
+msgstr "KOZOROG"
+
+msgid "Close"
+msgstr "Zapri"
+
+msgid "GEMINI"
+msgstr "DVOJČKA"
+
+msgid "Global Horoscope"
+msgstr "Globalni horoskop"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskop proti %s"
+
+msgid "Information"
+msgstr "Informacije"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "TEHTNICA"
+
+msgid "PISCES"
+msgstr "ribe"
+
+msgid "Please Select"
+msgstr "Prosim izberite"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Počakajte, vzpostavljam povezavo s strežnikom ..."
+
+msgid "Read"
+msgstr "Preberi"
+
+msgid "SAGITTARIUS"
+msgstr "STRELEC"
+
+msgid "SCORPIO"
+msgstr "ŠKORPIJON"
+
+msgid "Select"
+msgstr "Izberite"
+
+msgid "TAURUS"
+msgstr "BIK"
+
+msgid "VIRGO"
+msgstr "DEVICA"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Sinhala\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - වමට හේලින් කරන්න"
+
+msgid "0 - Halign Right"
+msgstr "0 - දකුණට හලින් කරන්න"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr "මේෂ"
+
+msgid "CANCER"
+msgstr "පිළිකා"
+
+msgid "CAPRICORN"
+msgstr "මකර ලග්නය"
+
+msgid "Close"
+msgstr "වසන්න"
+
+msgid "GEMINI"
+msgstr "මිථුන ලග්නය"
+
+msgid "Global Horoscope"
+msgstr "ගෝලීය කේන්දර සටහන"
+
+msgid "Horoscope v.%s"
+msgstr "කේන්දර v.%s"
+
+msgid "Information"
+msgstr "තොරතුරු"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "ලිබ්රා"
+
+msgid "PISCES"
+msgstr "මාළු"
+
+msgid "Please Select"
+msgstr "කරුණාකර තෝරන්න"
+
+msgid "Please wait, connecting to the server..."
+msgstr "කරුණාකර රැඳී සිටින්න, සේවාදායකයට සම්බන්ධ වෙමින්..."
+
+msgid "Read"
+msgstr "කියවන්න"
+
+msgid "SAGITTARIUS"
+msgstr "ධනු ලග්නය"
+
+msgid "SCORPIO"
+msgstr "වෘශ්චික"
+
+msgid "Select"
+msgstr "තෝරන්න"
+
+msgid "TAURUS"
+msgstr "ටෝරස්"
+
+msgid "VIRGO"
+msgstr "කන්‍යාව"

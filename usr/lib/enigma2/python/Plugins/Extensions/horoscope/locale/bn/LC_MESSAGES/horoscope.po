@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Bengali <(nothing)>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - হ্যালাইন বাম"
+
+msgid "0 - Halign Right"
+msgstr "0 - হ্যালাইন ডান"
+
+msgid "AQUARIUS"
+msgstr "কুম্ভ"
+
+msgid "ARIES"
+msgstr "মেষ রাশি"
+
+msgid "CANCER"
+msgstr "ক্যান্সার"
+
+msgid "CAPRICORN"
+msgstr "মকর রাশি"
+
+msgid "Close"
+msgstr "বন্ধ"
+
+msgid "GEMINI"
+msgstr "মিথুন"
+
+msgid "Global Horoscope"
+msgstr "বৈশ্বিক রাশিফল"
+
+msgid "Horoscope v.%s"
+msgstr "রাশিফল ​​v.%s"
+
+msgid "Information"
+msgstr "তথ্য"
+
+msgid "LEO"
+msgstr "লিও"
+
+msgid "LIBRA"
+msgstr "তুলা"
+
+msgid "PISCES"
+msgstr "মাছ"
+
+msgid "Please Select"
+msgstr "অনুগ্রহ করে নির্বাচন করুন"
+
+msgid "Please wait, connecting to the server..."
+msgstr "অনুগ্রহ করে অপেক্ষা করুন, সার্ভারের সাথে সংযোগ হচ্ছে..."
+
+msgid "Read"
+msgstr "পড়ুন"
+
+msgid "SAGITTARIUS"
+msgstr "ধনু"
+
+msgid "SCORPIO"
+msgstr "বৃশ্চিক"
+
+msgid "Select"
+msgstr "নির্বাচন করুন"
+
+msgid "TAURUS"
+msgstr "বৃষ"
+
+msgid "VIRGO"
+msgstr "কুমারী"

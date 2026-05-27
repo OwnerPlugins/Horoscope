@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:24+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kannada <debian-l10n-kannada@lists.debian.org>\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - ಎಡಕ್ಕೆ ಹಾಲಿನ್"
+
+msgid "0 - Halign Right"
+msgstr "0 - ಬಲಕ್ಕೆ ಹಾಲಿನ್ ಮಾಡಿ"
+
+msgid "AQUARIUS"
+msgstr "ಅಕ್ವೇರಿಯಸ್"
+
+msgid "ARIES"
+msgstr "ಮೇಷ ರಾಶಿ"
+
+msgid "CANCER"
+msgstr "ಕ್ಯಾನ್ಸರ್"
+
+msgid "CAPRICORN"
+msgstr "ಮಕರ ಸಂಕ್ರಾಂತಿ"
+
+msgid "Close"
+msgstr "ಮುಚ್ಚಿ"
+
+msgid "GEMINI"
+msgstr "ಮಿಥುನ ರಾಶಿ"
+
+msgid "Global Horoscope"
+msgstr "ಜಾಗತಿಕ ಜಾತಕ"
+
+msgid "Horoscope v.%s"
+msgstr "ಜಾತಕ v.%s"
+
+msgid "Information"
+msgstr "ಮಾಹಿತಿ"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "ತುಲಾ"
+
+msgid "PISCES"
+msgstr "ಮೀನು"
+
+msgid "Please Select"
+msgstr "ದಯವಿಟ್ಟು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "Please wait, connecting to the server..."
+msgstr "ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ, ಸರ್ವರ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ..."
+
+msgid "Read"
+msgstr "ಓದು"
+
+msgid "SAGITTARIUS"
+msgstr "ಧನು ರಾಶಿ"
+
+msgid "SCORPIO"
+msgstr "ವೃಶ್ಚಿಕ ರಾಶಿ"
+
+msgid "Select"
+msgstr "ಆಯ್ಕೆ ಮಾಡಿ"
+
+msgid "TAURUS"
+msgstr "ವೃಷಭ ರಾಶಿ"
+
+msgid "VIRGO"
+msgstr "ಕನ್ಯಾರಾಶಿ"

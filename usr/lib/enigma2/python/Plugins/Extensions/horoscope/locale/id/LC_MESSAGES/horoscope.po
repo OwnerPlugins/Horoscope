@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Kiri"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Kanan"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr "KANKER"
+
+msgid "CAPRICORN"
+msgstr "CAPRICORNUS"
+
+msgid "Close"
+msgstr "Menutup"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "Horoskop Global"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskop v.%s"
+
+msgid "Information"
+msgstr "Informasi"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "ikan"
+
+msgid "Please Select"
+msgstr "Silakan Pilih"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Harap tunggu, menghubungkan ke server..."
+
+msgid "Read"
+msgstr "Membaca"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "Memilih"
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
+msgstr ""

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:26+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Burmese\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - ဘယ်ဘက် ညှိပါ။"
+
+msgid "0 - Halign Right"
+msgstr ""
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr "ကင်ဆာ"
+
+msgid "CAPRICORN"
+msgstr "ကာပရစ်ကွန်"
+
+msgid "Close"
+msgstr "ပိတ်လိုက်"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "ကမ္ဘာလုံးဆိုင်ရာ Horoscope"
+
+msgid "Horoscope v.%s"
+msgstr ""
+
+msgid "Information"
+msgstr "သတင်းအချက်အလက်"
+
+msgid "LEO"
+msgstr "လီယို"
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "ငါး"
+
+msgid "Please Select"
+msgstr "ကျေးဇူးပြု၍ ရွေးချယ်ပါ။"
+
+msgid "Please wait, connecting to the server..."
+msgstr "ဆာဗာသို့ ချိတ်ဆက်နေသည်..."
+
+msgid "Read"
+msgstr "ဖတ်ပါ။"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "ရွေးချယ်ပါ။"
+
+msgid "TAURUS"
+msgstr "TauRUS"
+
+msgid "VIRGO"
+msgstr ""

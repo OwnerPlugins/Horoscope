@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:25+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign pa kreisi"
+
+msgid "0 - Halign Right"
+msgstr "0 - izlīdzināt pa labi"
+
+msgid "AQUARIUS"
+msgstr "ŪDENSVĪRS"
+
+msgid "ARIES"
+msgstr "AUNS"
+
+msgid "CANCER"
+msgstr "VĒZIS"
+
+msgid "CAPRICORN"
+msgstr "MEŽĀZIS"
+
+msgid "Close"
+msgstr "Aizvērt"
+
+msgid "GEMINI"
+msgstr "DVĪŅI"
+
+msgid "Global Horoscope"
+msgstr "Globālais horoskops"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskops v.%s"
+
+msgid "Information"
+msgstr "Informācija"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "SVARI"
+
+msgid "PISCES"
+msgstr "zivis"
+
+msgid "Please Select"
+msgstr "Lūdzu, atlasiet"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Lūdzu, uzgaidiet, tiek izveidots savienojums ar serveri..."
+
+msgid "Read"
+msgstr "Lasīt"
+
+msgid "SAGITTARIUS"
+msgstr "STRĒLNIEKS"
+
+msgid "SCORPIO"
+msgstr "SKORPIONS"
+
+msgid "Select"
+msgstr "Izvēlieties"
+
+msgid "TAURUS"
+msgstr "VĒRSIS"
+
+msgid "VIRGO"
+msgstr "JAUNAVA"

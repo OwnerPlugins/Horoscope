@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign ձախ"
+
+msgid "0 - Halign Right"
+msgstr "0 - հալեցնել աջ"
+
+msgid "AQUARIUS"
+msgstr "ՋՐՀՈՍՆԵՐ"
+
+msgid "ARIES"
+msgstr "ԽՈՅ"
+
+msgid "CANCER"
+msgstr "ԽԵՑԳԵՏԻՆ"
+
+msgid "CAPRICORN"
+msgstr "ԱՅԾԵՂՋՅՈՒՐ"
+
+msgid "Close"
+msgstr "Փակել"
+
+msgid "GEMINI"
+msgstr "ԵՐԿՎՈՐՅԱԿՆԵՐ"
+
+msgid "Global Horoscope"
+msgstr "Համաշխարհային Աստղագուշակ"
+
+msgid "Horoscope v.%s"
+msgstr "Աստղագուշակ v.%s"
+
+msgid "Information"
+msgstr "Տեղեկություն"
+
+msgid "LEO"
+msgstr "ԼԵՈ"
+
+msgid "LIBRA"
+msgstr "ԿՇԵՌՔ"
+
+msgid "PISCES"
+msgstr "ձուկ"
+
+msgid "Please Select"
+msgstr "Խնդրում ենք ընտրել"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Խնդրում ենք սպասել, միանալով սերվերին..."
+
+msgid "Read"
+msgstr "Կարդացեք"
+
+msgid "SAGITTARIUS"
+msgstr "ԱՂԵՂՆԱՎՈՐ"
+
+msgid "SCORPIO"
+msgstr "ԿԱՐԻՃ"
+
+msgid "Select"
+msgstr "Ընտրել"
+
+msgid "TAURUS"
+msgstr "ՑՈՒԼ"
+
+msgid "VIRGO"
+msgstr "ԿՈՒՅՍ"

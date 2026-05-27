@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:15+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic <(nothing)>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - هالين يسار"
+
+msgid "0 - Halign Right"
+msgstr "0 - هالين يمين"
+
+msgid "AQUARIUS"
+msgstr "برج الدلو"
+
+msgid "ARIES"
+msgstr "بُرْجُ الحَمَل"
+
+msgid "CANCER"
+msgstr "سرطان"
+
+msgid "CAPRICORN"
+msgstr "بُرْجُ الجَدْي"
+
+msgid "Close"
+msgstr "يغلق"
+
+msgid "GEMINI"
+msgstr "تَوأَم"
+
+msgid "Global Horoscope"
+msgstr "ابراج العالمية"
+
+msgid "Horoscope v.%s"
+msgstr "برجك v.%s"
+
+msgid "Information"
+msgstr "معلومة"
+
+msgid "LEO"
+msgstr "ليو"
+
+msgid "LIBRA"
+msgstr "الميزان"
+
+msgid "PISCES"
+msgstr "سمكة"
+
+msgid "Please Select"
+msgstr "الرجاء التحديد"
+
+msgid "Please wait, connecting to the server..."
+msgstr "الرجاء الانتظار، جاري الاتصال بالخادم..."
+
+msgid "Read"
+msgstr "يقرأ"
+
+msgid "SAGITTARIUS"
+msgstr "برج القوس"
+
+msgid "SCORPIO"
+msgstr "العقرب"
+
+msgid "Select"
+msgstr "يختار"
+
+msgid "TAURUS"
+msgstr "برج الثور"
+
+msgid "VIRGO"
+msgstr "بُرْجُ العَذْراء"

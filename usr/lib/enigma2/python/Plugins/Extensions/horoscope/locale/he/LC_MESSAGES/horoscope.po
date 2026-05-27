@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hebrew <heb-bugzap@hamakor.org.il>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - הליין שמאלה"
+
+msgid "0 - Halign Right"
+msgstr "0 - הליין ימינה"
+
+msgid "AQUARIUS"
+msgstr "מַזָל דְלִי"
+
+msgid "ARIES"
+msgstr "מַזַל טָלֶה"
+
+msgid "CANCER"
+msgstr "סַרְטָן"
+
+msgid "CAPRICORN"
+msgstr "מַזַל גְדִי"
+
+msgid "Close"
+msgstr "לִסְגוֹר"
+
+msgid "GEMINI"
+msgstr "מַזַל תְאוּמִים"
+
+msgid "Global Horoscope"
+msgstr "הורוסקופ גלובלי"
+
+msgid "Horoscope v.%s"
+msgstr "הורוסקופ נגד %s"
+
+msgid "Information"
+msgstr "מֵידָע"
+
+msgid "LEO"
+msgstr "מַזַל אַריֵה"
+
+msgid "LIBRA"
+msgstr "מֹאזנַיִם"
+
+msgid "PISCES"
+msgstr "לָדוּג"
+
+msgid "Please Select"
+msgstr "נא בחר"
+
+msgid "Please wait, connecting to the server..."
+msgstr "אנא המתן, מתחבר לשרת..."
+
+msgid "Read"
+msgstr "לִקְרוֹא"
+
+msgid "SAGITTARIUS"
+msgstr "מַזַל קַשָׁת"
+
+msgid "SCORPIO"
+msgstr "מַזָל עַקרָב"
+
+msgid "Select"
+msgstr "לִבחוֹר"
+
+msgid "TAURUS"
+msgstr "מַזַל שׁוֹר"
+
+msgid "VIRGO"
+msgstr "מַזַל בְּתוּלָה"

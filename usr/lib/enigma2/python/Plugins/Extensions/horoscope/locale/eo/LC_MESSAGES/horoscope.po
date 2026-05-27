@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Haligne Maldekstre"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Dekstre"
+
+msgid "AQUARIUS"
+msgstr "AKVARIO"
+
+msgid "ARIES"
+msgstr "ARIESO"
+
+msgid "CANCER"
+msgstr "KANCERO"
+
+msgid "CAPRICORN"
+msgstr "KAPRIKORNO"
+
+msgid "Close"
+msgstr "Fermu"
+
+msgid "GEMINI"
+msgstr "GEMELOJ"
+
+msgid "Global Horoscope"
+msgstr "Tutmonda horoskopo"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskopo v.%s"
+
+msgid "Information"
+msgstr "Informoj"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "PIVOLO"
+
+msgid "PISCES"
+msgstr "fiŝoj"
+
+msgid "Please Select"
+msgstr "Bonvolu Elekti"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Bonvolu atendi, konektante al la servilo..."
+
+msgid "Read"
+msgstr "Legu"
+
+msgid "SAGITTARIUS"
+msgstr "SAGITARO"
+
+msgid "SCORPIO"
+msgstr "SKORPIO"
+
+msgid "Select"
+msgstr "Elektu"
+
+msgid "TAURUS"
+msgstr "TAURO"
+
+msgid "VIRGO"
+msgstr ""

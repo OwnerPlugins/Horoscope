@@ -1,130 +1,67 @@
 #, fuzzy
-msgid ""
-msgstr ""
-"Project-Id-Version: Horoscope\n"
-"POT-Creation-Date: 2025-12-22 18:54+0100\n"
-"PO-Revision-Date: 2025-01-12 18:23+0100\n"
-"Last-Translator: \n"
-"Language-Team: lululla\n"
-"Language: it_IT\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.8\n"
-"X-Poedit-Basepath: ..\n"
-"X-Poedit-SourceCharset: iso-8859-1\n"
-"X-Poedit-SearchPath-0: plugin.py\n"
 
-#: plugin.py:91
-msgid "Global Horoscope"
-msgstr ""
-
-#: plugin.py:92
-#, python-format
-msgid "Horoscope v.%s"
-msgstr ""
-
-#: plugin.py:94
-#, python-format
-msgid ""
-"%(title)s\n"
-"\n"
-"Author: Lululla\n"
-"\n"
-"Graphics: Oktus\n"
-"\n"
-"Rss Feeds Horoscope: %(url)s\n"
-msgstr ""
-
-#: plugin.py:124
-msgid "ARIES"
-msgstr ""
-
-#: plugin.py:124
-msgid "TAURUS"
-msgstr ""
-
-#: plugin.py:124
-msgid "GEMINI"
-msgstr ""
-
-#: plugin.py:124
-msgid "CANCER"
-msgstr ""
-
-#: plugin.py:125
-msgid "LEO"
-msgstr ""
-
-#: plugin.py:125
-msgid "VIRGO"
-msgstr ""
-
-#: plugin.py:125
-msgid "LIBRA"
-msgstr ""
-
-#: plugin.py:125
-msgid "SCORPIO"
-msgstr ""
-
-#: plugin.py:126
-msgid "SAGITTARIUS"
-msgstr ""
-
-#: plugin.py:126
-msgid "CAPRICORN"
-msgstr ""
-
-#: plugin.py:126
-msgid "AQUARIUS"
-msgstr ""
-
-#: plugin.py:126
-msgid "PISCES"
-msgstr ""
-
-#: plugin.py:362 plugin.py:469 plugin.py:515
-msgid "Please wait, connecting to the server..."
-msgstr ""
-
-#: plugin.py:372 plugin.py:478
-msgid "Close"
-msgstr ""
-
-#: plugin.py:373
-msgid "Select"
-msgstr ""
-
-#: plugin.py:395
-msgid "Please Select"
-msgstr ""
-
-#: plugin.py:479
-msgid "Read"
-msgstr ""
-
-#: plugin.py:483 plugin.py:522
 msgid "0 - Halign Left"
 msgstr ""
 
-#: plugin.py:485 plugin.py:525
 msgid "0 - Halign Right"
 msgstr ""
 
-#: plugin.py:543
-msgid ""
-"Addons Download Failure\n"
-"No internet connection or server down!"
+msgid "AQUARIUS"
 msgstr ""
 
-#: plugin.py:635
-msgid ""
-"\n"
-"\n"
+msgid "ARIES"
 msgstr ""
 
-#: plugin.py:649
+msgid "CANCER"
+msgstr ""
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr ""
+
+msgid "Horoscope v.%s"
+msgstr ""
+
 msgid "Information"
+msgstr ""
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr ""
+
+msgid "Please Select"
+msgstr ""
+
+msgid "Please wait, connecting to the server..."
+msgstr ""
+
+msgid "Read"
+msgstr ""
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
 msgstr ""

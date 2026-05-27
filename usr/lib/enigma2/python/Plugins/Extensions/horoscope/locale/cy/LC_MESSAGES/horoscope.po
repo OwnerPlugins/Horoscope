@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halin Chwith"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halin I'r Dde"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr "ARIAN"
+
+msgid "CANCER"
+msgstr "CANSER"
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr "Cau"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "Horosgop Byd-eang"
+
+msgid "Horoscope v.%s"
+msgstr "Horosgop v.%s"
+
+msgid "Information"
+msgstr "Gwybodaeth"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "LLYFRGELL"
+
+msgid "PISCES"
+msgstr "pysgodyn"
+
+msgid "Please Select"
+msgstr "Os gwelwch yn dda Dewiswch"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Arhoswch, gan gysylltu â'r gweinydd..."
+
+msgid "Read"
+msgstr "Darllen"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "Dewiswch"
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
+msgstr "FIRGO"

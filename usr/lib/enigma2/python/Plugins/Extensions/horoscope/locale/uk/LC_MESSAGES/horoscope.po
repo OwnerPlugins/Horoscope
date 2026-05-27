@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Вирівняти ліворуч"
+
+msgid "0 - Halign Right"
+msgstr "0 - Вирівняти праворуч"
+
+msgid "AQUARIUS"
+msgstr "ВОДОЛІЙ"
+
+msgid "ARIES"
+msgstr "ОВЕН"
+
+msgid "CANCER"
+msgstr "РАК"
+
+msgid "CAPRICORN"
+msgstr "КОЗЕРІГ"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "GEMINI"
+msgstr "БЛИЗНЮКИ"
+
+msgid "Global Horoscope"
+msgstr "Глобальний гороскоп"
+
+msgid "Horoscope v.%s"
+msgstr "Гороскоп проти %s"
+
+msgid "Information"
+msgstr "Інформація"
+
+msgid "LEO"
+msgstr "ЛЕВ"
+
+msgid "LIBRA"
+msgstr "ТЕРЕЗИ"
+
+msgid "PISCES"
+msgstr "риба"
+
+msgid "Please Select"
+msgstr "Будь ласка, виберіть"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Зачекайте, підключення до сервера..."
+
+msgid "Read"
+msgstr "Прочитайте"
+
+msgid "SAGITTARIUS"
+msgstr "СТРІЛЕЦЬ"
+
+msgid "SCORPIO"
+msgstr "СКОРПІОН"
+
+msgid "Select"
+msgstr "Виберіть"
+
+msgid "TAURUS"
+msgstr "ТЕЛЕЦЬ"
+
+msgid "VIRGO"
+msgstr "ДІВА"

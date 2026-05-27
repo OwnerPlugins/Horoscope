@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:24+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign kairėn"
+
+msgid "0 - Halign Right"
+msgstr "0 – išlyginkite dešinę"
+
+msgid "AQUARIUS"
+msgstr "VANDENIS"
+
+msgid "ARIES"
+msgstr "AVINAS"
+
+msgid "CANCER"
+msgstr "VĖŽYS"
+
+msgid "CAPRICORN"
+msgstr "OŽIARAGIS"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "GEMINI"
+msgstr "DVYNIAI"
+
+msgid "Global Horoscope"
+msgstr "Pasaulinis horoskopas"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskopas v.%s"
+
+msgid "Information"
+msgstr "Informacija"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "SVARSTYKLĖS"
+
+msgid "PISCES"
+msgstr "žuvis"
+
+msgid "Please Select"
+msgstr "Prašome pasirinkti"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Palaukite, jungiamasi prie serverio..."
+
+msgid "Read"
+msgstr "Skaityti"
+
+msgid "SAGITTARIUS"
+msgstr "ŠAULYS"
+
+msgid "SCORPIO"
+msgstr "SKORPIONAS"
+
+msgid "Select"
+msgstr "Pasirinkite"
+
+msgid "TAURUS"
+msgstr "JAUTIS"
+
+msgid "VIRGO"
+msgstr "MERGELĖ"

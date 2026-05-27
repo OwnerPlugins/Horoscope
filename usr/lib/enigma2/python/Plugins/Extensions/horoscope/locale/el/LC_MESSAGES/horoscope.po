@@ -16,107 +16,88 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-1\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
-#: plugin.py:43
-#, python-format
-msgid ""
-"Horoscope v.%s\n"
-"\n"
-"Author: Lululla\n"
-"\n"
-"Graphics: Oktus\n"
-"\n"
-"Rss Horoscope: https://www.findyourfate.com\n"
-"\n"
-msgstr ""
-"Ωροσκόπιο v.%s\n"
-"\n"
-"Συγγραφέας: Lululla\n"
-"\n"
-"Γραφικά: Oktus\n"
-"\n"
-"Ωροσκόπιο Rss: https://www.findyourfate.com\n"
-"\n"
+msgid "0 - Halign Left"
+msgstr "0 - Ευθυγράμμιση αριστερά"
 
-#: plugin.py:114 plugin.py:140
-msgid "Please wait, connecting to the server..."
-msgstr "Περιμένετε, σύνδεση στον διακομιστή..."
+msgid "0 - Halign Right"
+msgstr "0 - Ευθυγράμμιση δεξιά"
 
-#: plugin.py:119
-msgid "Change"
-msgstr "Αλλαγή"
-
-#: plugin.py:120 plugin.py:240 plugin.py:339
-msgid "Information"
-msgstr "Πληροφορίες"
-
-#: plugin.py:180 plugin.py:360
-msgid "Today's Horoscope "
-msgstr "Το σημερινό Ωροσκόπιο "
-
-#: plugin.py:204
-msgid "Sign not found"
-msgstr "Το σημάδι δεν βρέθηκε"
-
-#: plugin.py:315
-msgid "ARIES"
-msgstr "ΚΡΙΟΣ"
-
-#: plugin.py:315
-msgid "TAURUS"
-msgstr "ΤΑΥΡΟΣ"
-
-#: plugin.py:315
-msgid "GEMINI"
-msgstr "ΔΙΔΥΜΟΙ"
-
-#: plugin.py:315
-msgid "CANCER"
-msgstr "ΚΑΡΚΙΝΟΣ"
-
-#: plugin.py:316
-msgid "LION"
-msgstr "ΛΙΟΝΤΑΡΙ"
-
-#: plugin.py:316
-msgid "VIRGIN"
-msgstr "ΠΑΡΘΕΝΑ"
-
-#: plugin.py:316
-msgid "LIBRA"
-msgstr "ΖΥΓΟΣ"
-
-#: plugin.py:316
-msgid "SCORPION"
-msgstr "ΣΚΟΡΠΙΟΣ"
-
-#: plugin.py:317
-msgid "SAGITTARIUS"
-msgstr "ΤΟΞΟΤΗΣ"
-
-#: plugin.py:317
-msgid "CAPRICORN"
-msgstr "ΑΙΓΟΚΕΡΩΣ"
-
-#: plugin.py:317
 msgid "AQUARIUS"
 msgstr "ΥΔΡΟΧΟΟΣ"
 
-#: plugin.py:317
-msgid "PISCES"
-msgstr "ΙΧΘΥΕΣ"
+msgid "ARIES"
+msgstr "ΚΡΙΟΣ"
 
-#: plugin.py:321
-msgid "Select a Zodiac Sign"
-msgstr "Επιλέξτε ένα ζώδιο"
+msgid "CANCER"
+msgstr "ΚΑΡΚΙΝΟΣ"
 
-#: plugin.py:324
+msgid "CAPRICORN"
+msgstr "ΑΙΓΟΚΕΡΩΣ"
+
 msgid "Close"
 msgstr "Κλείσιμο"
 
-#: plugin.py:325
+msgid "GEMINI"
+msgstr "ΔΙΔΥΜΟΙ"
+
+#, fuzzy
+msgid "Global Horoscope"
+msgstr "Ωροσκόπιο"
+
+#, fuzzy
+msgid "Horoscope v.%s"
+msgstr "Ωροσκόπιο"
+
+msgid "Information"
+msgstr "Πληροφορίες"
+
+msgid "LEO"
+msgstr "ΛΕΩΝ"
+
+msgid "LIBRA"
+msgstr "ΖΥΓΟΣ"
+
+msgid "PISCES"
+msgstr "ΙΧΘΥΕΣ"
+
+#, fuzzy
+msgid "Please Select"
+msgstr "Επιλέξτε"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Περιμένετε, σύνδεση στον διακομιστή..."
+
+msgid "Read"
+msgstr "Ανάγνωση"
+
+msgid "SAGITTARIUS"
+msgstr "ΤΟΞΟΤΗΣ"
+
+#, fuzzy
+msgid "SCORPIO"
+msgstr "ΣΚΟΡΠΙΟΣ"
+
 msgid "Select"
 msgstr "Επιλέξτε"
 
-#: plugin.py:360
-msgid "Horoscope"
-msgstr "Ωροσκόπιο"
+msgid "TAURUS"
+msgstr "ΤΑΥΡΟΣ"
+
+#, fuzzy
+msgid "VIRGO"
+msgstr "ΠΑΡΘΕΝΑ"
+
+#~ msgid "Change"
+#~ msgstr "Αλλαγή"
+
+#~ msgid "Today's Horoscope "
+#~ msgstr "Το σημερινό Ωροσκόπιο "
+
+#~ msgid "Sign not found"
+#~ msgstr "Το σημάδι δεν βρέθηκε"
+
+#~ msgid "LION"
+#~ msgstr "ΛΙΟΝΤΑΡΙ"
+
+#~ msgid "Select a Zodiac Sign"
+#~ msgstr "Επιλέξτε ένα ζώδιο"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:27+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Nepali <translation-team-ne@lists.sourceforge.net>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "० - बायाँ हलाइन गर्नुहोस्"
+
+msgid "0 - Halign Right"
+msgstr "० - दायाँ हलाइन गर्नुहोस्"
+
+msgid "AQUARIUS"
+msgstr "कुम्भ"
+
+msgid "ARIES"
+msgstr "मेष"
+
+msgid "CANCER"
+msgstr "क्यान्सर"
+
+msgid "CAPRICORN"
+msgstr "मकर राशि"
+
+msgid "Close"
+msgstr "बन्द गर्नुहोस्"
+
+msgid "GEMINI"
+msgstr "मिथुन"
+
+msgid "Global Horoscope"
+msgstr "विश्वव्यापी राशिफल"
+
+msgid "Horoscope v.%s"
+msgstr "राशिफल v.%s"
+
+msgid "Information"
+msgstr "जानकारी"
+
+msgid "LEO"
+msgstr "लियो"
+
+msgid "LIBRA"
+msgstr "तुला"
+
+msgid "PISCES"
+msgstr "माछा"
+
+msgid "Please Select"
+msgstr "कृपया चयन गर्नुहोस्"
+
+msgid "Please wait, connecting to the server..."
+msgstr "कृपया पर्खनुहोस्, सर्भरमा जडान गर्दै..."
+
+msgid "Read"
+msgstr "पढ्नुहोस्"
+
+msgid "SAGITTARIUS"
+msgstr "धनु"
+
+msgid "SCORPIO"
+msgstr "वृश्चिक"
+
+msgid "Select"
+msgstr "चयन गर्नुहोस्"
+
+msgid "TAURUS"
+msgstr "वृष"
+
+msgid "VIRGO"
+msgstr "कन्या"

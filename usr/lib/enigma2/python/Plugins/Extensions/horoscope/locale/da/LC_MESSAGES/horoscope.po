@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Venstre"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Højre"
+
+msgid "AQUARIUS"
+msgstr "VANDMANN"
+
+msgid "ARIES"
+msgstr "VÆDDER"
+
+msgid "CANCER"
+msgstr "KRÆFT"
+
+msgid "CAPRICORN"
+msgstr "STENDEN"
+
+msgid "Close"
+msgstr "Tæt"
+
+msgid "GEMINI"
+msgstr "TILLINGER"
+
+msgid "Global Horoscope"
+msgstr "Globalt horoskop"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskop v.%s"
+
+msgid "Information"
+msgstr ""
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "fisk"
+
+msgid "Please Select"
+msgstr "Vælg venligst"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Vent venligst, opretter forbindelse til serveren..."
+
+msgid "Read"
+msgstr "Læse"
+
+msgid "SAGITTARIUS"
+msgstr "SKYTTER"
+
+msgid "SCORPIO"
+msgstr "SKORPIOEN"
+
+msgid "Select"
+msgstr "Vælge"
+
+msgid "TAURUS"
+msgstr "TYR"
+
+msgid "VIRGO"
+msgstr "Jomfruen"

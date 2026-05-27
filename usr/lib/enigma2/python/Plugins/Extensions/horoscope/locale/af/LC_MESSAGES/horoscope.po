@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:14+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Links"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Regs"
+
+msgid "AQUARIUS"
+msgstr "WATERMAN"
+
+msgid "ARIES"
+msgstr "RAM"
+
+msgid "CANCER"
+msgstr "KANKER"
+
+msgid "CAPRICORN"
+msgstr "STEENBOK"
+
+msgid "Close"
+msgstr "Maak toe"
+
+msgid "GEMINI"
+msgstr "TWEELING"
+
+msgid "Global Horoscope"
+msgstr "Globale Horoskoop"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskoop v.%s"
+
+msgid "Information"
+msgstr "Inligting"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "vis"
+
+msgid "Please Select"
+msgstr "Kies asseblief"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Wag asseblief, koppel tans aan die bediener..."
+
+msgid "Read"
+msgstr "Lees"
+
+msgid "SAGITTARIUS"
+msgstr "BOOGSKUTTER"
+
+msgid "SCORPIO"
+msgstr "SKERPIOEN"
+
+msgid "Select"
+msgstr "Kies"
+
+msgid "TAURUS"
+msgstr "STIER"
+
+msgid "VIRGO"
+msgstr "MAAGD"

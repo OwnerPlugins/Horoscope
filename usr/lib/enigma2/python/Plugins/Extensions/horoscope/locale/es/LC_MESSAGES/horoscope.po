@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Alinear a la izquierda"
+
+msgid "0 - Halign Right"
+msgstr "0 - Alinear a la derecha"
+
+msgid "AQUARIUS"
+msgstr "ACUARIO"
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr "CÁNCER"
+
+msgid "CAPRICORN"
+msgstr "CAPRICORNIO"
+
+msgid "Close"
+msgstr "Cerca"
+
+msgid "GEMINI"
+msgstr "GÉMINIS"
+
+msgid "Global Horoscope"
+msgstr "Horóscopo Mundial"
+
+msgid "Horoscope v.%s"
+msgstr "Horóscopo v.%s"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "LEO"
+msgstr "LEÓN"
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "pez"
+
+msgid "Please Select"
+msgstr "Por favor seleccione"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Espere, conectándose al servidor..."
+
+msgid "Read"
+msgstr "Leer"
+
+msgid "SAGITTARIUS"
+msgstr "SAGITARIO"
+
+msgid "SCORPIO"
+msgstr "ESCORPIÓN"
+
+msgid "Select"
+msgstr "Seleccionar"
+
+msgid "TAURUS"
+msgstr "TAURO"
+
+msgid "VIRGO"
+msgstr ""

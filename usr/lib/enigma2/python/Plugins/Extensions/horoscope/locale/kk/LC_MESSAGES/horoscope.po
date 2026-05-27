@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kazakh <(nothing)>\n"
+"Language: kk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - солға қарай бұру"
+
+msgid "0 - Halign Right"
+msgstr "0 - Оңға туралау"
+
+msgid "AQUARIUS"
+msgstr "СУВАЙН"
+
+msgid "ARIES"
+msgstr "ТОВЫҚ"
+
+msgid "CANCER"
+msgstr "РАК"
+
+msgid "CAPRICORN"
+msgstr "Козерог"
+
+msgid "Close"
+msgstr "Жабу"
+
+msgid "GEMINI"
+msgstr "Егіздер"
+
+msgid "Global Horoscope"
+msgstr "Жаһандық гороскоп"
+
+msgid "Horoscope v.%s"
+msgstr "Жұлдызнама %s"
+
+msgid "Information"
+msgstr "Ақпарат"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "ТАРАЗЫ"
+
+msgid "PISCES"
+msgstr "балық"
+
+msgid "Please Select"
+msgstr "Таңдаңыз"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Күте тұрыңыз, серверге қосылуда..."
+
+msgid "Read"
+msgstr "Оқы"
+
+msgid "SAGITTARIUS"
+msgstr "СЕГИТТАР"
+
+msgid "SCORPIO"
+msgstr "СКОРПИО"
+
+msgid "Select"
+msgstr "таңдаңыз"
+
+msgid "TAURUS"
+msgstr "ТОЛЫҚ"
+
+msgid "VIRGO"
+msgstr "Бикеш"

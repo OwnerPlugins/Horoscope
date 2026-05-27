@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Scottish Gaelic <fios@foramnagaidhlig.net>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halin air chlì"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Ceart"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr "ARAIDH"
+
+msgid "CANCER"
+msgstr ""
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr "Dùin"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "Horoscope cruinne"
+
+msgid "Horoscope v.%s"
+msgstr ""
+
+msgid "Information"
+msgstr "Fiosrachadh"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "iasg"
+
+msgid "Please Select"
+msgstr "Feuch an tagh thu"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Feuch an fuirich thu, a' ceangal ris an fhrithealaiche..."
+
+msgid "Read"
+msgstr "Leugh"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr "Sgorpio"
+
+msgid "Select"
+msgstr "Tagh"
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
+msgstr ""

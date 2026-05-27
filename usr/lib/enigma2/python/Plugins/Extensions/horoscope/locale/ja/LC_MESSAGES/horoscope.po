@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - 左揃え"
+
+msgid "0 - Halign Right"
+msgstr "0 - 右揃え"
+
+msgid "AQUARIUS"
+msgstr "水瓶座"
+
+msgid "ARIES"
+msgstr "牡羊座"
+
+msgid "CANCER"
+msgstr "癌"
+
+msgid "CAPRICORN"
+msgstr "山羊座"
+
+msgid "Close"
+msgstr "近い"
+
+msgid "GEMINI"
+msgstr "ジェミニ"
+
+msgid "Global Horoscope"
+msgstr "グローバルホロスコープ"
+
+msgid "Horoscope v.%s"
+msgstr "星占い vs.%s"
+
+msgid "Information"
+msgstr "情報"
+
+msgid "LEO"
+msgstr "レオ"
+
+msgid "LIBRA"
+msgstr "天秤座"
+
+msgid "PISCES"
+msgstr "魚"
+
+msgid "Please Select"
+msgstr "選択してください"
+
+msgid "Please wait, connecting to the server..."
+msgstr "サーバーに接続中ですのでお待ちください..."
+
+msgid "Read"
+msgstr "読む"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr "蠍座"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "TAURUS"
+msgstr "おうし座"
+
+msgid "VIRGO"
+msgstr "乙女座"

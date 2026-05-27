@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <rkovacs@khujand.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Халин аз чап"
+
+msgid "0 - Halign Right"
+msgstr "0 - Ҳалин рост"
+
+msgid "AQUARIUS"
+msgstr "ДАВВ"
+
+msgid "ARIES"
+msgstr "ХОР"
+
+msgid "CANCER"
+msgstr "САРАТОН"
+
+msgid "CAPRICORN"
+msgstr "МУЗУР"
+
+msgid "Close"
+msgstr "Пӯшед"
+
+msgid "GEMINI"
+msgstr "БУРД"
+
+msgid "Global Horoscope"
+msgstr "Гороскопи ҷаҳонӣ"
+
+msgid "Horoscope v.%s"
+msgstr "Гороскопи v.%s"
+
+msgid "Information"
+msgstr "Маълумот"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "ТАРОЗ"
+
+msgid "PISCES"
+msgstr "моҳӣ"
+
+msgid "Please Select"
+msgstr "Лутфан интихоб кунед"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Лутфан интизор шавед, пайвастшавӣ ба сервер..."
+
+msgid "Read"
+msgstr "Хондан"
+
+msgid "SAGITTARIUS"
+msgstr "КАВС"
+
+msgid "SCORPIO"
+msgstr "СКОРПИО"
+
+msgid "Select"
+msgstr "Интихоб кунед"
+
+msgid "TAURUS"
+msgstr "БОЗ"
+
+msgid "VIRGO"
+msgstr "БИКОР"

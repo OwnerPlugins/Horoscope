@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Vinstri"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Hægri"
+
+msgid "AQUARIUS"
+msgstr "Vatnsberinn"
+
+msgid "ARIES"
+msgstr "Hrútur"
+
+msgid "CANCER"
+msgstr "KRABBAMEIN"
+
+msgid "CAPRICORN"
+msgstr "Steingeit"
+
+msgid "Close"
+msgstr "Loka"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "Alþjóðlegt stjörnuspákort"
+
+msgid "Horoscope v.%s"
+msgstr "Stjörnuspá v.%s"
+
+msgid "Information"
+msgstr "Upplýsingar"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "VÓG"
+
+msgid "PISCES"
+msgstr "fiskur"
+
+msgid "Please Select"
+msgstr "Vinsamlegast veldu"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Vinsamlegast bíddu, tengist þjóninum..."
+
+msgid "Read"
+msgstr "Lestu"
+
+msgid "SAGITTARIUS"
+msgstr "BODTI"
+
+msgid "SCORPIO"
+msgstr "SPORÐDREIÐUR"
+
+msgid "Select"
+msgstr "Veldu"
+
+msgid "TAURUS"
+msgstr "NAUTUR"
+
+msgid "VIRGO"
+msgstr "MEYJA"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tamil <tamil@systemreboot.net>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - இடதுபுறம் ஹாலின் செய்யவும்"
+
+msgid "0 - Halign Right"
+msgstr "0 - வலதுபுறம் ஹாலின்"
+
+msgid "AQUARIUS"
+msgstr "கும்பம்"
+
+msgid "ARIES"
+msgstr "மேஷம்"
+
+msgid "CANCER"
+msgstr "புற்றுநோய்"
+
+msgid "CAPRICORN"
+msgstr "மகர ராசி"
+
+msgid "Close"
+msgstr "மூடு"
+
+msgid "GEMINI"
+msgstr "ஜெமினி"
+
+msgid "Global Horoscope"
+msgstr "உலகளாவிய ஜாதகம்"
+
+msgid "Horoscope v.%s"
+msgstr "ஜாதகம் v.%s"
+
+msgid "Information"
+msgstr "தகவல்"
+
+msgid "LEO"
+msgstr "லியோ"
+
+msgid "LIBRA"
+msgstr "துலாம்"
+
+msgid "PISCES"
+msgstr "மீன்"
+
+msgid "Please Select"
+msgstr "தயவுசெய்து தேர்ந்தெடுக்கவும்"
+
+msgid "Please wait, connecting to the server..."
+msgstr "தயவுசெய்து காத்திருக்கவும், சேவையகத்துடன் இணைக்கிறது..."
+
+msgid "Read"
+msgstr "படிக்கவும்"
+
+msgid "SAGITTARIUS"
+msgstr "தனுசு ராசி"
+
+msgid "SCORPIO"
+msgstr "விருச்சிகம்"
+
+msgid "Select"
+msgstr "தேர்ந்தெடு"
+
+msgid "TAURUS"
+msgstr "ரிஷபம்"
+
+msgid "VIRGO"
+msgstr "கன்னி ராசி"

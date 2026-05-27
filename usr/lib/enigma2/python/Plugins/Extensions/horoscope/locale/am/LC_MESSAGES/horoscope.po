@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:15+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Haalign ግራ"
+
+msgid "0 - Halign Right"
+msgstr "0 - ትክክል"
+
+msgid "AQUARIUS"
+msgstr "አኩዋሪየስ"
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr "ካንሰር"
+
+msgid "CAPRICORN"
+msgstr "ካፕሪኮርን"
+
+msgid "Close"
+msgstr "ገጠመ"
+
+msgid "GEMINI"
+msgstr "ጀሚኒ"
+
+msgid "Global Horoscope"
+msgstr "ዓለም አቀፍ ሆሮስኮፕ"
+
+msgid "Horoscope v.%s"
+msgstr "ሆሮስኮፕ v.%s"
+
+msgid "Information"
+msgstr "መረጃ"
+
+msgid "LEO"
+msgstr "ሊዮ"
+
+msgid "LIBRA"
+msgstr "ሊብራ"
+
+msgid "PISCES"
+msgstr "አሳ"
+
+msgid "Please Select"
+msgstr "እባክዎ ይምረጡ"
+
+msgid "Please wait, connecting to the server..."
+msgstr "እባክህ ጠብቅ፣ ከአገልጋዩ ጋር በመገናኘት ላይ..."
+
+msgid "Read"
+msgstr "አንብብ"
+
+msgid "SAGITTARIUS"
+msgstr "ሳጊታሪየስ"
+
+msgid "SCORPIO"
+msgstr "ስኮርፒዮ"
+
+msgid "Select"
+msgstr "ይምረጡ"
+
+msgid "TAURUS"
+msgstr "ታውረስ"
+
+msgid "VIRGO"
+msgstr "ቪርጎ"

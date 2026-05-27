@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Thai <(nothing)>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - จัดชิดซ้าย"
+
+msgid "0 - Halign Right"
+msgstr "0 - จัดชิดขวา"
+
+msgid "AQUARIUS"
+msgstr "ราศีกุมภ์"
+
+msgid "ARIES"
+msgstr "ราศีเมษ"
+
+msgid "CANCER"
+msgstr "มะเร็ง"
+
+msgid "CAPRICORN"
+msgstr "ราศีมังกร"
+
+msgid "Close"
+msgstr "ปิด"
+
+msgid "GEMINI"
+msgstr "ราศีเมถุน"
+
+msgid "Global Horoscope"
+msgstr "ดูดวงทั่วโลก"
+
+msgid "Horoscope v.%s"
+msgstr "ดูดวง กับ %s"
+
+msgid "Information"
+msgstr "ข้อมูล"
+
+msgid "LEO"
+msgstr "สิงห์"
+
+msgid "LIBRA"
+msgstr "ราศีตุลย์"
+
+msgid "PISCES"
+msgstr "ปลา"
+
+msgid "Please Select"
+msgstr "กรุณาเลือก"
+
+msgid "Please wait, connecting to the server..."
+msgstr "กรุณารอสักครู่ กำลังเชื่อมต่อกับเซิร์ฟเวอร์..."
+
+msgid "Read"
+msgstr "อ่าน"
+
+msgid "SAGITTARIUS"
+msgstr "ราศีธนู"
+
+msgid "SCORPIO"
+msgstr "ราศีพิจิก"
+
+msgid "Select"
+msgstr "เลือก"
+
+msgid "TAURUS"
+msgstr "ราศีพฤษภ"
+
+msgid "VIRGO"
+msgstr "ราศีกันย์"

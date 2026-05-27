@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Yiddish\n"
+"Language: yi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - האַליין לינקס"
+
+msgid "0 - Halign Right"
+msgstr "0 - האַליין רעכט"
+
+msgid "AQUARIUS"
+msgstr "אַקוואַריוס"
+
+msgid "ARIES"
+msgstr "עריז"
+
+msgid "CANCER"
+msgstr "ראַק"
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr "נאָענט"
+
+msgid "GEMINI"
+msgstr "געמיני"
+
+msgid "Global Horoscope"
+msgstr "גלאבאלע האָראָסקאָפּע"
+
+msgid "Horoscope v.%s"
+msgstr "האָראָסקאָפּע וו.%s"
+
+msgid "Information"
+msgstr "אינפֿאָרמאַציע"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "ליבראַ"
+
+msgid "PISCES"
+msgstr "פיש"
+
+msgid "Please Select"
+msgstr "ביטע אויסקלייַבן"
+
+msgid "Please wait, connecting to the server..."
+msgstr "ביטע וואַרטן, קאַנעקטינג צו די סערווער ..."
+
+msgid "Read"
+msgstr "לייענען"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "אויסקלייַבן"
+
+msgid "TAURUS"
+msgstr "טאָראַס"
+
+msgid "VIRGO"
+msgstr "ווירגאָ"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign a l'esquerra"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Dret"
+
+msgid "AQUARIUS"
+msgstr "AQUARI"
+
+msgid "ARIES"
+msgstr "ÀRIES"
+
+msgid "CANCER"
+msgstr "CÀNCER"
+
+msgid "CAPRICORN"
+msgstr "CAPRICORNI"
+
+msgid "Close"
+msgstr "Tancar"
+
+msgid "GEMINI"
+msgstr "GÉMINIS"
+
+msgid "Global Horoscope"
+msgstr "Horòscop global"
+
+msgid "Horoscope v.%s"
+msgstr "Horòscop v.%s"
+
+msgid "Information"
+msgstr "Informació"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "LLIBRA"
+
+msgid "PISCES"
+msgstr "peixos"
+
+msgid "Please Select"
+msgstr "Seleccioneu"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Si us plau, espereu, connectant-vos al servidor..."
+
+msgid "Read"
+msgstr "Llegeix"
+
+msgid "SAGITTARIUS"
+msgstr "SAGITARI"
+
+msgid "SCORPIO"
+msgstr "ESCORPI"
+
+msgid "Select"
+msgstr "Seleccioneu"
+
+msgid "TAURUS"
+msgstr "TAURE"
+
+msgid "VIRGO"
+msgstr "VERGE"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Central Khmer\n"
+"Language: km\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - តម្រឹមឆ្វេង"
+
+msgid "0 - Halign Right"
+msgstr "0 - តម្រឹមស្តាំ"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr "មហារីក"
+
+msgid "CAPRICORN"
+msgstr "កាព្រីក"
+
+msgid "Close"
+msgstr "បិទ"
+
+msgid "GEMINI"
+msgstr "ជីមីន"
+
+msgid "Global Horoscope"
+msgstr "ហោរាសាស្ត្រសកល"
+
+msgid "Horoscope v.%s"
+msgstr "ហោរាសាស្ត្រ v.%s"
+
+msgid "Information"
+msgstr "ព័ត៌មាន"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "លីបរ៉ា"
+
+msgid "PISCES"
+msgstr "ត្រី"
+
+msgid "Please Select"
+msgstr "សូមជ្រើសរើស"
+
+msgid "Please wait, connecting to the server..."
+msgstr "សូមរង់ចាំ ដោយភ្ជាប់ទៅម៉ាស៊ីនមេ..."
+
+msgid "Read"
+msgstr "អាន"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "ជ្រើសរើស"
+
+msgid "TAURUS"
+msgstr "តារូស"
+
+msgid "VIRGO"
+msgstr "វីរហ្គោ"

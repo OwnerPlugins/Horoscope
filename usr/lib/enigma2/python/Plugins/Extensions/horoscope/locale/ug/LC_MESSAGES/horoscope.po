@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uighur\n"
+"Language: ug\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - سولغا توغرىلاش"
+
+msgid "0 - Halign Right"
+msgstr "0 - توغرىلاش"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr ""
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr "تاقاش"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr ""
+
+msgid "Horoscope v.%s"
+msgstr "Horoscope v.% S"
+
+msgid "Information"
+msgstr "ئۇچۇر"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "بېلىق"
+
+msgid "Please Select"
+msgstr "تاللاڭ"
+
+msgid "Please wait, connecting to the server..."
+msgstr "ساقلاڭ ، مۇلازىمېتىرغا ئۇلاڭ ..."
+
+msgid "Read"
+msgstr "ئوقۇ"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "تاللاڭ"
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
+msgstr ""

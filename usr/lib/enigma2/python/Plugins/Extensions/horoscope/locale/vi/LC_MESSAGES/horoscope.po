@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Căn trái"
+
+msgid "0 - Halign Right"
+msgstr "0 - Căn phải"
+
+msgid "AQUARIUS"
+msgstr "Bảo Bình"
+
+msgid "ARIES"
+msgstr "Bạch Dương"
+
+msgid "CANCER"
+msgstr "BỆNH UNG THƯ"
+
+msgid "CAPRICORN"
+msgstr "Ma Kết"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "GEMINI"
+msgstr "Song Tử"
+
+msgid "Global Horoscope"
+msgstr "Tử vi toàn cầu"
+
+msgid "Horoscope v.%s"
+msgstr "Tử vi v.%s"
+
+msgid "Information"
+msgstr "Thông tin"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "cá"
+
+msgid "Please Select"
+msgstr "Vui lòng chọn"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Vui lòng đợi, đang kết nối với máy chủ..."
+
+msgid "Read"
+msgstr "Đọc"
+
+msgid "SAGITTARIUS"
+msgstr "Nhân Mã"
+
+msgid "SCORPIO"
+msgstr "Bọ Cạp"
+
+msgid "Select"
+msgstr "Lựa chọn"
+
+msgid "TAURUS"
+msgstr "Kim Ngưu"
+
+msgid "VIRGO"
+msgstr "Xử Nữ"

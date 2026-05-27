@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Stânga"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Dreapta"
+
+msgid "AQUARIUS"
+msgstr "VARSATOR"
+
+msgid "ARIES"
+msgstr "BERBEC"
+
+msgid "CANCER"
+msgstr ""
+
+msgid "CAPRICORN"
+msgstr "CAPRICORNUL"
+
+msgid "Close"
+msgstr "Aproape"
+
+msgid "GEMINI"
+msgstr "GEMENII"
+
+msgid "Global Horoscope"
+msgstr "Horoscop global"
+
+msgid "Horoscope v.%s"
+msgstr "Horoscop v.%s"
+
+msgid "Information"
+msgstr "Informaţii"
+
+msgid "LEO"
+msgstr "LEU"
+
+msgid "LIBRA"
+msgstr "BALANTA"
+
+msgid "PISCES"
+msgstr "peşte"
+
+msgid "Please Select"
+msgstr "Vă rugăm să selectați"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Vă rugăm să așteptați, vă conectez la server..."
+
+msgid "Read"
+msgstr "Citire"
+
+msgid "SAGITTARIUS"
+msgstr "SAGETATOR"
+
+msgid "SCORPIO"
+msgstr "SCORPIONUL"
+
+msgid "Select"
+msgstr "Selecta"
+
+msgid "TAURUS"
+msgstr "TAURUL"
+
+msgid "VIRGO"
+msgstr "FECIOARĂ"

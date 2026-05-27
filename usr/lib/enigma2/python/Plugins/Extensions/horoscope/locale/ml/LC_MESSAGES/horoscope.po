@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:25+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - ഇടത് ഹാലിൻ ചെയ്യുക"
+
+msgid "0 - Halign Right"
+msgstr "0 - വലത് ഹാലിൻ ചെയ്യുക"
+
+msgid "AQUARIUS"
+msgstr "കുംഭം"
+
+msgid "ARIES"
+msgstr "ഏരീസ്"
+
+msgid "CANCER"
+msgstr "കാൻസർ"
+
+msgid "CAPRICORN"
+msgstr "മകരം"
+
+msgid "Close"
+msgstr "അടയ്ക്കുക"
+
+msgid "GEMINI"
+msgstr "മിഥുനം"
+
+msgid "Global Horoscope"
+msgstr "ആഗോള ജാതകം"
+
+msgid "Horoscope v.%s"
+msgstr "ജാതകം v.%s"
+
+msgid "Information"
+msgstr "വിവരങ്ങൾ"
+
+msgid "LEO"
+msgstr "ലിയോ"
+
+msgid "LIBRA"
+msgstr "തുലാം"
+
+msgid "PISCES"
+msgstr "മത്സ്യം"
+
+msgid "Please Select"
+msgstr "ദയവായി തിരഞ്ഞെടുക്കുക"
+
+msgid "Please wait, connecting to the server..."
+msgstr "ദയവായി കാത്തിരിക്കൂ, സെർവറിലേക്ക് ബന്ധിപ്പിക്കുന്നു..."
+
+msgid "Read"
+msgstr "വായിക്കുക"
+
+msgid "SAGITTARIUS"
+msgstr "ധനു രാശി"
+
+msgid "SCORPIO"
+msgstr "സ്കോർപിയോ"
+
+msgid "Select"
+msgstr "തിരഞ്ഞെടുക്കുക"
+
+msgid "TAURUS"
+msgstr "ടോറസ്"
+
+msgid "VIRGO"
+msgstr "കന്യക"

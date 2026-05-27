@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:15+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Azerbaijani\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Sol"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Sağ"
+
+msgid "AQUARIUS"
+msgstr "DOLÇA"
+
+msgid "ARIES"
+msgstr "QOÇ"
+
+msgid "CANCER"
+msgstr "XƏRÇƏNG"
+
+msgid "CAPRICORN"
+msgstr "OĞLAQ"
+
+msgid "Close"
+msgstr "Bağlayın"
+
+msgid "GEMINI"
+msgstr "ƏKİZLƏR"
+
+msgid "Global Horoscope"
+msgstr "Qlobal Bürclər"
+
+msgid "Horoscope v.%s"
+msgstr "Bürclər v.%s"
+
+msgid "Information"
+msgstr "Məlumat"
+
+msgid "LEO"
+msgstr "ŞİR"
+
+msgid "LIBRA"
+msgstr "TƏRƏZİ"
+
+msgid "PISCES"
+msgstr "balıq"
+
+msgid "Please Select"
+msgstr "Zəhmət olmasa seçin"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Lütfən gözləyin, serverə qoşulur..."
+
+msgid "Read"
+msgstr "Oxuyun"
+
+msgid "SAGITTARIUS"
+msgstr "OXATAN"
+
+msgid "SCORPIO"
+msgstr "ƏQRƏB"
+
+msgid "Select"
+msgstr "seçin"
+
+msgid "TAURUS"
+msgstr "BUĞA"
+
+msgid "VIRGO"
+msgstr "QIZ BÜRCÜ"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:26+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Marathi <sshedmak@redhat.com>\n"
+"Language: mr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - डावीकडे हलवा"
+
+msgid "0 - Halign Right"
+msgstr "0 - उजवीकडे हलवा"
+
+msgid "AQUARIUS"
+msgstr "कुंभ"
+
+msgid "ARIES"
+msgstr "मेष"
+
+msgid "CANCER"
+msgstr "कर्करोग"
+
+msgid "CAPRICORN"
+msgstr "मकर"
+
+msgid "Close"
+msgstr "बंद करा"
+
+msgid "GEMINI"
+msgstr "मिथुन"
+
+msgid "Global Horoscope"
+msgstr "जागतिक कुंडली"
+
+msgid "Horoscope v.%s"
+msgstr "कुंडली v.%s"
+
+msgid "Information"
+msgstr "माहिती"
+
+msgid "LEO"
+msgstr "लिओ"
+
+msgid "LIBRA"
+msgstr "तुला"
+
+msgid "PISCES"
+msgstr "मासे"
+
+msgid "Please Select"
+msgstr "कृपया निवडा"
+
+msgid "Please wait, connecting to the server..."
+msgstr "कृपया प्रतीक्षा करा, सर्व्हरशी कनेक्ट करत आहे..."
+
+msgid "Read"
+msgstr "वाचा"
+
+msgid "SAGITTARIUS"
+msgstr "धनु"
+
+msgid "SCORPIO"
+msgstr "वृश्चिक"
+
+msgid "Select"
+msgstr "निवडा"
+
+msgid "TAURUS"
+msgstr "वृषभ"
+
+msgid "VIRGO"
+msgstr "कन्या"

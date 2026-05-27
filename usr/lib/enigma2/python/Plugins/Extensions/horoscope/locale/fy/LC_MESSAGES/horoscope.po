@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Western Frisian\n"
+"Language: fy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Lofts"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Rjochts"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr "KANKER"
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr "Slute"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr ""
+
+msgid "Horoscope v.%s"
+msgstr ""
+
+msgid "Information"
+msgstr "Ynformaasje"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "fisk"
+
+msgid "Please Select"
+msgstr "Selektearje asjebleaft"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Wachtsje asjebleaft, ferbine mei de tsjinner..."
+
+msgid "Read"
+msgstr "Lêze"
+
+msgid "SAGITTARIUS"
+msgstr "SJOCHTTER"
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "Selektearje"
+
+msgid "TAURUS"
+msgstr "STIER"
+
+msgid "VIRGO"
+msgstr "FIRGO"

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Tasaa vasen"
+
+msgid "0 - Halign Right"
+msgstr "0 - Tasaa oikealle"
+
+msgid "AQUARIUS"
+msgstr "VESIMIES"
+
+msgid "ARIES"
+msgstr "OINAS"
+
+msgid "CANCER"
+msgstr "SYÖPÄ"
+
+msgid "CAPRICORN"
+msgstr "KAURIS"
+
+msgid "Close"
+msgstr "Lähellä"
+
+msgid "GEMINI"
+msgstr "KAKSOSET"
+
+msgid "Global Horoscope"
+msgstr "Maailmanlaajuinen horoskooppi"
+
+msgid "Horoscope v.%s"
+msgstr "Horoskooppi v.%s"
+
+msgid "Information"
+msgstr "Tiedot"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "VAAKA"
+
+msgid "PISCES"
+msgstr "kalastaa"
+
+msgid "Please Select"
+msgstr "Ole hyvä ja valitse"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Odota, muodostetaan yhteyttä palvelimeen..."
+
+msgid "Read"
+msgstr "Lukea"
+
+msgid "SAGITTARIUS"
+msgstr "JOUSIMIES"
+
+msgid "SCORPIO"
+msgstr "SKORPIONI"
+
+msgid "Select"
+msgstr "Valitse"
+
+msgid "TAURUS"
+msgstr "HÄRKÄ"
+
+msgid "VIRGO"
+msgstr "NEITSYT"

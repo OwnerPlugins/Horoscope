@@ -16,107 +16,88 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-1\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
-#: plugin.py:43
-#, python-format
-msgid ""
-"Horoscope v.%s\n"
-"\n"
-"Author: Lululla\n"
-"\n"
-"Graphics: Oktus\n"
-"\n"
-"Rss Horoscope: https://www.findyourfate.com\n"
-"\n"
+msgid "0 - Halign Left"
+msgstr "0 - Halign vlevo"
+
+msgid "0 - Halign Right"
 msgstr ""
-"Horoskop v.%s\n"
-"\n"
-"Autor: Lululla\n"
-"\n"
-"Grafika: Oktus\n"
-"\n"
-"RSS horoskop: https://www.findyourfate.com\n"
-"\n"
 
-#: plugin.py:114 plugin.py:140
-msgid "Please wait, connecting to the server..."
-msgstr "Čekejte prosím, připojuji se k serveru..."
-
-#: plugin.py:119
-msgid "Change"
-msgstr "Změnit"
-
-#: plugin.py:120 plugin.py:240 plugin.py:339
-msgid "Information"
-msgstr "Informace"
-
-#: plugin.py:180 plugin.py:360
-msgid "Today's Horoscope "
-msgstr "Dnešní horoskop "
-
-#: plugin.py:204
-msgid "Sign not found"
-msgstr "Značka nenalezena"
-
-#: plugin.py:315
-msgid "ARIES"
-msgstr "BERAN"
-
-#: plugin.py:315
-msgid "TAURUS"
-msgstr "BÝK"
-
-#: plugin.py:315
-msgid "GEMINI"
-msgstr "BLÍŽENCI"
-
-#: plugin.py:315
-msgid "CANCER"
-msgstr "RAK"
-
-#: plugin.py:316
-msgid "LION"
-msgstr "LEV"
-
-#: plugin.py:316
-msgid "VIRGIN"
-msgstr "PANNA"
-
-#: plugin.py:316
-msgid "LIBRA"
-msgstr "VÁHY"
-
-#: plugin.py:316
-msgid "SCORPION"
-msgstr "ŠTÍR"
-
-#: plugin.py:317
-msgid "SAGITTARIUS"
-msgstr "STŘELEC"
-
-#: plugin.py:317
-msgid "CAPRICORN"
-msgstr "KOZOROH"
-
-#: plugin.py:317
 msgid "AQUARIUS"
 msgstr "VODNÁŘ"
 
-#: plugin.py:317
-msgid "PISCES"
-msgstr "RYBY"
+msgid "ARIES"
+msgstr "BERAN"
 
-#: plugin.py:321
-msgid "Select a Zodiac Sign"
-msgstr "Vyberte znamení zvěrokruhu"
+msgid "CANCER"
+msgstr "RAK"
 
-#: plugin.py:324
+msgid "CAPRICORN"
+msgstr "KOZOROH"
+
 msgid "Close"
 msgstr "Zavřít"
 
-#: plugin.py:325
+msgid "GEMINI"
+msgstr "BLÍŽENCI"
+
+#, fuzzy
+msgid "Global Horoscope"
+msgstr "Horoskop"
+
+#, fuzzy
+msgid "Horoscope v.%s"
+msgstr "Horoskop"
+
+msgid "Information"
+msgstr "Informace"
+
+msgid "LEO"
+msgstr "LEV"
+
+msgid "LIBRA"
+msgstr "VÁHY"
+
+msgid "PISCES"
+msgstr "RYBY"
+
+#, fuzzy
+msgid "Please Select"
+msgstr "Vybrat"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Čekejte prosím, připojuji se k serveru..."
+
+msgid "Read"
+msgstr "Číst"
+
+msgid "SAGITTARIUS"
+msgstr "STŘELEC"
+
+#, fuzzy
+msgid "SCORPIO"
+msgstr "ŠTÍR"
+
 msgid "Select"
 msgstr "Vybrat"
 
-#: plugin.py:360
-msgid "Horoscope"
-msgstr "Horoskop"
+msgid "TAURUS"
+msgstr "BÝK"
+
+#, fuzzy
+msgid "VIRGO"
+msgstr "PANNA"
+
+#~ msgid "Change"
+#~ msgstr "Změnit"
+
+#~ msgid "Today's Horoscope "
+#~ msgstr "Dnešní horoskop "
+
+#~ msgid "Sign not found"
+#~ msgstr "Značka nenalezena"
+
+#~ msgid "LION"
+#~ msgstr "LEV"
+
+#~ msgid "Select a Zodiac Sign"
+#~ msgstr "Vyberte znamení zvěrokruhu"

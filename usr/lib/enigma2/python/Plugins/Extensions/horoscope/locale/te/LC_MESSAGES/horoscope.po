@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Telugu <(nothing)>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - ఎడమవైపు హాలిన్"
+
+msgid "0 - Halign Right"
+msgstr "0 - కుడివైపుకి హాలిన్ చేయండి"
+
+msgid "AQUARIUS"
+msgstr "కుంభం"
+
+msgid "ARIES"
+msgstr "మేషరాశి"
+
+msgid "CANCER"
+msgstr "క్యాన్సర్"
+
+msgid "CAPRICORN"
+msgstr "మకరం"
+
+msgid "Close"
+msgstr "మూసివేయి"
+
+msgid "GEMINI"
+msgstr "మిధున రాశి"
+
+msgid "Global Horoscope"
+msgstr "గ్లోబల్ జాతకం"
+
+msgid "Horoscope v.%s"
+msgstr "జాతకం v.%s"
+
+msgid "Information"
+msgstr "సమాచారం"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "తుల"
+
+msgid "PISCES"
+msgstr "చేప"
+
+msgid "Please Select"
+msgstr "దయచేసి ఎంచుకోండి"
+
+msgid "Please wait, connecting to the server..."
+msgstr "దయచేసి వేచి ఉండండి, సర్వర్‌కి కనెక్ట్ చేస్తోంది..."
+
+msgid "Read"
+msgstr "చదవండి"
+
+msgid "SAGITTARIUS"
+msgstr "ధనుస్సు రాశి"
+
+msgid "SCORPIO"
+msgstr "వృశ్చిక రాశి"
+
+msgid "Select"
+msgstr "ఎంచుకోండి"
+
+msgid "TAURUS"
+msgstr "వృషభ రాశి"
+
+msgid "VIRGO"
+msgstr "కన్య"

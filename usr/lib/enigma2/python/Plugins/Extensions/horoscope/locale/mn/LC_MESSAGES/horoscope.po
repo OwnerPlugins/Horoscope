@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:25+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Mongolian <openmn-translation@lists.sourceforge.net>\n"
+"Language: mn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Зүүн тийшээ халина"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign баруун"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr "ХОНЬ"
+
+msgid "CANCER"
+msgstr "ХАВДАР"
+
+msgid "CAPRICORN"
+msgstr "МАТАР"
+
+msgid "Close"
+msgstr "Хаах"
+
+msgid "GEMINI"
+msgstr "ИХЭР"
+
+msgid "Global Horoscope"
+msgstr "Дэлхийн зурхай"
+
+msgid "Horoscope v.%s"
+msgstr "Зурхай v.%s"
+
+msgid "Information"
+msgstr "Мэдээлэл"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "ЖИНЛҮҮР"
+
+msgid "PISCES"
+msgstr "загас"
+
+msgid "Please Select"
+msgstr "Сонгоно уу"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Түр хүлээнэ үү, серверт холбогдож байна..."
+
+msgid "Read"
+msgstr "Унших"
+
+msgid "SAGITTARIUS"
+msgstr "НУМ"
+
+msgid "SCORPIO"
+msgstr "Хилэнцийн орд"
+
+msgid "Select"
+msgstr "Сонго"
+
+msgid "TAURUS"
+msgstr "ҮХЭР"
+
+msgid "VIRGO"
+msgstr "Охины орд"

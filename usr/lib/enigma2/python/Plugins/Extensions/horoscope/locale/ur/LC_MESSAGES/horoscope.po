@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:33+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Urdu <jessbody@gmail.com>\n"
+"Language: ur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - بائیں ہلائیں"
+
+msgid "0 - Halign Right"
+msgstr "0 - دائیں طرف ہلائیں"
+
+msgid "AQUARIUS"
+msgstr "ایکویریئس"
+
+msgid "ARIES"
+msgstr "میش"
+
+msgid "CANCER"
+msgstr "کینسر"
+
+msgid "CAPRICORN"
+msgstr "مکر"
+
+msgid "Close"
+msgstr "بند"
+
+msgid "GEMINI"
+msgstr "جیمنی"
+
+msgid "Global Horoscope"
+msgstr "عالمی زائچہ"
+
+msgid "Horoscope v.%s"
+msgstr "زائچہ v.%s"
+
+msgid "Information"
+msgstr "معلومات"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "لیبرا"
+
+msgid "PISCES"
+msgstr "مچھلی"
+
+msgid "Please Select"
+msgstr "براہ کرم منتخب کریں۔"
+
+msgid "Please wait, connecting to the server..."
+msgstr "براہ کرم انتظار کریں، سرور سے منسلک ہو رہا ہے..."
+
+msgid "Read"
+msgstr "پڑھیں"
+
+msgid "SAGITTARIUS"
+msgstr "ساگیٹیریئس"
+
+msgid "SCORPIO"
+msgstr "سکورپیو"
+
+msgid "Select"
+msgstr "منتخب کریں۔"
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
+msgstr "کنواری"

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:24+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Kurdish <translation-team-ku (at) ferheng.org>\n"
+"Language: ku\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Çep"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Rast"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr "QANSÊR"
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr "Nêzîkî"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "Horoscope Global"
+
+msgid "Horoscope v.%s"
+msgstr ""
+
+msgid "Information"
+msgstr "Agahî"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "masî"
+
+msgid "Please Select"
+msgstr "Ji kerema xwe Hilbijêre"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Ji kerema xwe bisekine, bi serverê ve tê girêdan..."
+
+msgid "Read"
+msgstr "Xwendin"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "Neqandin"
+
+msgid "TAURUS"
+msgstr "TOOL"
+
+msgid "VIRGO"
+msgstr ""

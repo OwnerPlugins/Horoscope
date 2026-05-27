@@ -16,107 +16,88 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-1\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
-#: plugin.py:43
-#, python-format
-msgid ""
-"Horoscope v.%s\n"
-"\n"
-"Author: Lululla\n"
-"\n"
-"Graphics: Oktus\n"
-"\n"
-"Rss Horoscope: https://www.findyourfate.com\n"
-"\n"
-msgstr ""
-"Horoszkóp v.%s\n"
-"\n"
-"Szerző: Lululla\n"
-"\n"
-"Grafika: Oktus\n"
-"\n"
-"RSS horoszkóp: https://www.findyourfate.com\n"
-"\n"
+msgid "0 - Halign Left"
+msgstr "0 - Halign balra"
 
-#: plugin.py:114 plugin.py:140
-msgid "Please wait, connecting to the server..."
-msgstr "Kérjük, várjon, csatlakozik a szerverhez..."
+msgid "0 - Halign Right"
+msgstr "0 - Jobbra igazítás"
 
-#: plugin.py:119
-msgid "Change"
-msgstr "Változtatás"
-
-#: plugin.py:120 plugin.py:240 plugin.py:339
-msgid "Information"
-msgstr "Információ"
-
-#: plugin.py:180 plugin.py:360
-msgid "Today's Horoscope "
-msgstr "A mai horoszkóp "
-
-#: plugin.py:204
-msgid "Sign not found"
-msgstr "A jel nem található"
-
-#: plugin.py:315
-msgid "ARIES"
-msgstr "KOS"
-
-#: plugin.py:315
-msgid "TAURUS"
-msgstr "BIKA"
-
-#: plugin.py:315
-msgid "GEMINI"
-msgstr "IKREK"
-
-#: plugin.py:315
-msgid "CANCER"
-msgstr "RÁK"
-
-#: plugin.py:316
-msgid "LION"
-msgstr "OROSZLÁN"
-
-#: plugin.py:316
-msgid "VIRGIN"
-msgstr "SZŰZ"
-
-#: plugin.py:316
-msgid "LIBRA"
-msgstr "MÉRLEG"
-
-#: plugin.py:316
-msgid "SCORPION"
-msgstr "SKORPIÓ"
-
-#: plugin.py:317
-msgid "SAGITTARIUS"
-msgstr "NYILAS"
-
-#: plugin.py:317
-msgid "CAPRICORN"
-msgstr "BAK"
-
-#: plugin.py:317
 msgid "AQUARIUS"
 msgstr "VÍZÖNTŐ"
 
-#: plugin.py:317
-msgid "PISCES"
-msgstr "HALAK"
+msgid "ARIES"
+msgstr "KOS"
 
-#: plugin.py:321
-msgid "Select a Zodiac Sign"
-msgstr "Válasszon ki egy csillagjegyet"
+msgid "CANCER"
+msgstr "RÁK"
 
-#: plugin.py:324
+msgid "CAPRICORN"
+msgstr "BAK"
+
 msgid "Close"
 msgstr "Bezár"
 
-#: plugin.py:325
+msgid "GEMINI"
+msgstr "IKREK"
+
+#, fuzzy
+msgid "Global Horoscope"
+msgstr "Horoszkóp"
+
+#, fuzzy
+msgid "Horoscope v.%s"
+msgstr "Horoszkóp"
+
+msgid "Information"
+msgstr "Információ"
+
+msgid "LEO"
+msgstr "OROSZLÁN"
+
+msgid "LIBRA"
+msgstr "MÉRLEG"
+
+msgid "PISCES"
+msgstr "HALAK"
+
+#, fuzzy
+msgid "Please Select"
+msgstr "Kiválasztás"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Kérjük, várjon, csatlakozik a szerverhez..."
+
+msgid "Read"
+msgstr "Olvas"
+
+msgid "SAGITTARIUS"
+msgstr "NYILAS"
+
+#, fuzzy
+msgid "SCORPIO"
+msgstr "SKORPIÓ"
+
 msgid "Select"
 msgstr "Kiválasztás"
 
-#: plugin.py:360
-msgid "Horoscope"
-msgstr "Horoszkóp"
+msgid "TAURUS"
+msgstr "BIKA"
+
+#, fuzzy
+msgid "VIRGO"
+msgstr "SZŰZ"
+
+#~ msgid "Change"
+#~ msgstr "Változtatás"
+
+#~ msgid "Today's Horoscope "
+#~ msgstr "A mai horoszkóp "
+
+#~ msgid "Sign not found"
+#~ msgstr "A jel nem található"
+
+#~ msgid "LION"
+#~ msgstr "OROSZLÁN"
+
+#~ msgid "Select a Zodiac Sign"
+#~ msgstr "Válasszon ki egy csillagjegyet"

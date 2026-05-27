@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Chapga halign"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign o'ng"
+
+msgid "AQUARIUS"
+msgstr ""
+
+msgid "ARIES"
+msgstr "QO'Y"
+
+msgid "CANCER"
+msgstr "SARATON"
+
+msgid "CAPRICORN"
+msgstr "OĞLAK"
+
+msgid "Close"
+msgstr "Yopish"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "Global munajjimlar bashorati"
+
+msgid "Horoscope v.%s"
+msgstr "Munajjimlar bashorati v.%s"
+
+msgid "Information"
+msgstr "Ma'lumot"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "TARAZI"
+
+msgid "PISCES"
+msgstr "baliq"
+
+msgid "Please Select"
+msgstr "Iltimos tanlang"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Iltimos, kuting, serverga ulanmoqda..."
+
+msgid "Read"
+msgstr "O'qing"
+
+msgid "SAGITTARIUS"
+msgstr "YAYVON"
+
+msgid "SCORPIO"
+msgstr "CHAYON"
+
+msgid "Select"
+msgstr "Tanlang"
+
+msgid "TAURUS"
+msgstr "TAVRO"
+
+msgid "VIRGO"
+msgstr ""

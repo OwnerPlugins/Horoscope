@@ -16,107 +16,88 @@ msgstr ""
 "X-Poedit-SourceCharset: iso-8859-1\n"
 "X-Poedit-SearchPath-0: plugin.py\n"
 
-#: plugin.py:43
-#, python-format
-msgid ""
-"Horoscope v.%s\n"
-"\n"
-"Author: Lululla\n"
-"\n"
-"Graphics: Oktus\n"
-"\n"
-"Rss Horoscope: https://www.findyourfate.com\n"
-"\n"
-msgstr ""
-"Horoskop v.%s\n"
-"\n"
-"Autor: Lululla\n"
-"\n"
-"Grafika: Oktus\n"
-"\n"
-"Rss Horoskop: https://www.findyourfate.com\n"
-"\n"
+msgid "0 - Halign Left"
+msgstr "0 — Ustaw w lewo"
 
-#: plugin.py:114 plugin.py:140
-msgid "Please wait, connecting to the server..."
-msgstr "Proszę czekać, trwa łączenie z serwerem..."
+msgid "0 - Halign Right"
+msgstr "0 - Ustaw się w prawo"
 
-#: plugin.py:119
-msgid "Change"
-msgstr "Zmień"
-
-#: plugin.py:120 plugin.py:240 plugin.py:339
-msgid "Information"
-msgstr "Informacja"
-
-#: plugin.py:180 plugin.py:360
-msgid "Today's Horoscope "
-msgstr "Dzisiejszy horoskop "
-
-#: plugin.py:204
-msgid "Sign not found"
-msgstr "Znak nie znaleziony"
-
-#: plugin.py:315
-msgid "ARIES"
-msgstr "BARAN"
-
-#: plugin.py:315
-msgid "TAURUS"
-msgstr "BYK"
-
-#: plugin.py:315
-msgid "GEMINI"
-msgstr "BLIŹNIĘTA"
-
-#: plugin.py:315
-msgid "CANCER"
-msgstr "RAK"
-
-#: plugin.py:316
-msgid "LION"
-msgstr "LEW"
-
-#: plugin.py:316
-msgid "VIRGIN"
-msgstr "DZIEWICA"
-
-#: plugin.py:316
-msgid "LIBRA"
-msgstr "LIBRA"
-
-#: plugin.py:316
-msgid "SCORPION"
-msgstr "SKORPION"
-
-#: plugin.py:317
-msgid "SAGITTARIUS"
-msgstr "STRZELEC"
-
-#: plugin.py:317
-msgid "CAPRICORN"
-msgstr "KOZIOROŻEC"
-
-#: plugin.py:317
 msgid "AQUARIUS"
 msgstr "WODNIK"
 
-#: plugin.py:317
-msgid "PISCES"
-msgstr "RYBY"
+msgid "ARIES"
+msgstr "BARAN"
 
-#: plugin.py:321
-msgid "Select a Zodiac Sign"
-msgstr "Wybierz znak zodiaku"
+msgid "CANCER"
+msgstr "RAK"
 
-#: plugin.py:324
+msgid "CAPRICORN"
+msgstr "KOZIOROŻEC"
+
 msgid "Close"
 msgstr "Zamknij"
 
-#: plugin.py:325
+msgid "GEMINI"
+msgstr "BLIŹNIĘTA"
+
+#, fuzzy
+msgid "Global Horoscope"
+msgstr "Horoskop"
+
+#, fuzzy
+msgid "Horoscope v.%s"
+msgstr "Horoskop"
+
+msgid "Information"
+msgstr "Informacja"
+
+msgid "LEO"
+msgstr "LEW"
+
+msgid "LIBRA"
+msgstr "LIBRA"
+
+msgid "PISCES"
+msgstr "RYBY"
+
+#, fuzzy
+msgid "Please Select"
+msgstr "Wybierz"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Proszę czekać, trwa łączenie z serwerem..."
+
+msgid "Read"
+msgstr "Czytać"
+
+msgid "SAGITTARIUS"
+msgstr "STRZELEC"
+
+#, fuzzy
+msgid "SCORPIO"
+msgstr "SKORPION"
+
 msgid "Select"
 msgstr "Wybierz"
 
-#: plugin.py:360
-msgid "Horoscope"
-msgstr "Horoskop"
+msgid "TAURUS"
+msgstr "BYK"
+
+#, fuzzy
+msgid "VIRGO"
+msgstr "DZIEWICA"
+
+#~ msgid "Change"
+#~ msgstr "Zmień"
+
+#~ msgid "Today's Horoscope "
+#~ msgstr "Dzisiejszy horoskop "
+
+#~ msgid "Sign not found"
+#~ msgstr "Znak nie znaleziony"
+
+#~ msgid "LION"
+#~ msgstr "LEW"
+
+#~ msgid "Select a Zodiac Sign"
+#~ msgstr "Wybierz znak zodiaku"

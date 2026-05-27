@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Turkish <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Sola Hizala"
+
+msgid "0 - Halign Right"
+msgstr "0 - Sağa Hizala"
+
+msgid "AQUARIUS"
+msgstr "KOVA"
+
+msgid "ARIES"
+msgstr "KOÇ BURCU"
+
+msgid "CANCER"
+msgstr "KANSER"
+
+msgid "CAPRICORN"
+msgstr "OĞLAK"
+
+msgid "Close"
+msgstr "Kapalı"
+
+msgid "GEMINI"
+msgstr "İKİZLER BURCU"
+
+msgid "Global Horoscope"
+msgstr "Küresel Burç"
+
+msgid "Horoscope v.%s"
+msgstr "Burç v.%s"
+
+msgid "Information"
+msgstr "Bilgi"
+
+msgid "LEO"
+msgstr "Aslan burcu"
+
+msgid "LIBRA"
+msgstr "TERAZİ"
+
+msgid "PISCES"
+msgstr "balık"
+
+msgid "Please Select"
+msgstr "Lütfen Seçiniz"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Lütfen bekleyin, sunucuya bağlanılıyor..."
+
+msgid "Read"
+msgstr "Okumak"
+
+msgid "SAGITTARIUS"
+msgstr "YAY"
+
+msgid "SCORPIO"
+msgstr "AKREP"
+
+msgid "Select"
+msgstr "Seçme"
+
+msgid "TAURUS"
+msgstr "BOĞA BURCU"
+
+msgid "VIRGO"
+msgstr "BAŞAK"

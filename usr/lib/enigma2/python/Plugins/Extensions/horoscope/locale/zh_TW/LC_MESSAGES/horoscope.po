@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:35+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-TW\n"
+"Language: zh-TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - 左對齊"
+
+msgid "0 - Halign Right"
+msgstr "0 - 右對齊"
+
+msgid "AQUARIUS"
+msgstr "水瓶座"
+
+msgid "ARIES"
+msgstr "牡羊座"
+
+msgid "CANCER"
+msgstr "癌症"
+
+msgid "CAPRICORN"
+msgstr "摩羯座"
+
+msgid "Close"
+msgstr "關閉"
+
+msgid "GEMINI"
+msgstr "雙子座"
+
+msgid "Global Horoscope"
+msgstr "全球星座運勢"
+
+msgid "Horoscope v.%s"
+msgstr "占星 v.%s"
+
+msgid "Information"
+msgstr "資訊"
+
+msgid "LEO"
+msgstr "低地軌道"
+
+msgid "LIBRA"
+msgstr "天秤座"
+
+msgid "PISCES"
+msgstr "魚"
+
+msgid "Please Select"
+msgstr "請選擇"
+
+msgid "Please wait, connecting to the server..."
+msgstr "請稍候，正在連接伺服器..."
+
+msgid "Read"
+msgstr "讀"
+
+msgid "SAGITTARIUS"
+msgstr "射手座"
+
+msgid "SCORPIO"
+msgstr "天蠍座"
+
+msgid "Select"
+msgstr "選擇"
+
+msgid "TAURUS"
+msgstr "金牛座"
+
+msgid "VIRGO"
+msgstr "處女座"

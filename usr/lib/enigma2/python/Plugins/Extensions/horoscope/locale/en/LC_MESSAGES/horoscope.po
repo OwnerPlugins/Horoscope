@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#, fuzzy
+msgid "0 - Halign Left"
+msgstr "0 - Halign Left"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Right"
+
+msgid "AQUARIUS"
+msgstr "AQUARIUS"
+
+msgid "ARIES"
+msgstr "ARIES"
+
+msgid "CANCER"
+msgstr "CANCER"
+
+msgid "CAPRICORN"
+msgstr "CAPRICORN"
+
+msgid "Close"
+msgstr "Close"
+
+msgid "GEMINI"
+msgstr "GEMINI"
+
+msgid "Global Horoscope"
+msgstr "Global Horoscope"
+
+msgid "Horoscope v.%s"
+msgstr "Horoscope v.%s"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "LEO"
+msgstr "LEO"
+
+msgid "LIBRA"
+msgstr "LIBRA"
+
+msgid "PISCES"
+msgstr "PISCES"
+
+msgid "Please Select"
+msgstr "Please Select"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Please wait, connecting to the server..."
+
+msgid "Read"
+msgstr "Read"
+
+msgid "SAGITTARIUS"
+msgstr "SAGITTARIUS"
+
+msgid "SCORPIO"
+msgstr "SCORPIO"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "TAURUS"
+msgstr "TAURUS"
+
+msgid "VIRGO"
+msgstr "VIRGO"

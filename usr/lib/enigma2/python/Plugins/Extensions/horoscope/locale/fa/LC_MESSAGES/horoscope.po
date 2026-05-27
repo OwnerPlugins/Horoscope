@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Persian <translation-team-fa@lists.sourceforge.net>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - راست کردن سمت چپ"
+
+msgid "0 - Halign Right"
+msgstr "0 - راست چین کنید"
+
+msgid "AQUARIUS"
+msgstr "دلو"
+
+msgid "ARIES"
+msgstr "برج حمل"
+
+msgid "CANCER"
+msgstr "سرطان"
+
+msgid "CAPRICORN"
+msgstr "برج جدی"
+
+msgid "Close"
+msgstr "بستن"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "فال جهانی"
+
+msgid "Horoscope v.%s"
+msgstr "فال v.%s"
+
+msgid "Information"
+msgstr "اطلاعات"
+
+msgid "LEO"
+msgstr "لئو"
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "ماهی"
+
+msgid "Please Select"
+msgstr "لطفا انتخاب کنید"
+
+msgid "Please wait, connecting to the server..."
+msgstr "لطفا صبر کنید، در حال اتصال به سرور..."
+
+msgid "Read"
+msgstr "بخوانید"
+
+msgid "SAGITTARIUS"
+msgstr "کمان"
+
+msgid "SCORPIO"
+msgstr "عقرب"
+
+msgid "Select"
+msgstr "انتخاب کنید"
+
+msgid "TAURUS"
+msgstr "ثور"
+
+msgid "VIRGO"
+msgstr "باکره"

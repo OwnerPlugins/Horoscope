@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Galician <proxecto@trasno.gal>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Halign Esquerda"
+
+msgid "0 - Halign Right"
+msgstr "0 - Halign Dereita"
+
+msgid "AQUARIUS"
+msgstr "ACUARIO"
+
+msgid "ARIES"
+msgstr ""
+
+msgid "CANCER"
+msgstr ""
+
+msgid "CAPRICORN"
+msgstr "CAPRICORNIO"
+
+msgid "Close"
+msgstr "Pechar"
+
+msgid "GEMINI"
+msgstr "XÉMENES"
+
+msgid "Global Horoscope"
+msgstr "Horóscopo global"
+
+msgid "Horoscope v.%s"
+msgstr "Horóscopo v.%s"
+
+msgid "Information"
+msgstr "Información"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr ""
+
+msgid "PISCES"
+msgstr "peixe"
+
+msgid "Please Select"
+msgstr "Seleccione"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Agarde, conectándose ao servidor..."
+
+msgid "Read"
+msgstr "Ler"
+
+msgid "SAGITTARIUS"
+msgstr "SAXITARIO"
+
+msgid "SCORPIO"
+msgstr "ESCORPIO"
+
+msgid "Select"
+msgstr "Seleccione"
+
+msgid "TAURUS"
+msgstr "TAURO"
+
+msgid "VIRGO"
+msgstr "VIRXE"

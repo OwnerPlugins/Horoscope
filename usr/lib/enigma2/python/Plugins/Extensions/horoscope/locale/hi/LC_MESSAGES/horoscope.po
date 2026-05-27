@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Hindi <fedora-trans-hi@redhat.com>\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - बाएँ हलिग्न करें"
+
+msgid "0 - Halign Right"
+msgstr "0-दाएँ हल करें"
+
+msgid "AQUARIUS"
+msgstr "कुंभ"
+
+msgid "ARIES"
+msgstr "एआरआईएस"
+
+msgid "CANCER"
+msgstr "कैंसर"
+
+msgid "CAPRICORN"
+msgstr "मकर"
+
+msgid "Close"
+msgstr "बंद करना"
+
+msgid "GEMINI"
+msgstr "मिथुन"
+
+msgid "Global Horoscope"
+msgstr "वैश्विक राशिफल"
+
+msgid "Horoscope v.%s"
+msgstr "राशिफल v.%s"
+
+msgid "Information"
+msgstr "जानकारी"
+
+msgid "LEO"
+msgstr "लियो"
+
+msgid "LIBRA"
+msgstr "तुला"
+
+msgid "PISCES"
+msgstr "मछली"
+
+msgid "Please Select"
+msgstr "कृपया चयन कीजिए"
+
+msgid "Please wait, connecting to the server..."
+msgstr "कृपया प्रतीक्षा करें, सर्वर से कनेक्ट हो रहा है..."
+
+msgid "Read"
+msgstr "पढ़ना"
+
+msgid "SAGITTARIUS"
+msgstr "धनु"
+
+msgid "SCORPIO"
+msgstr "वृश्चिक"
+
+msgid "Select"
+msgstr "चुनना"
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
+msgstr "कन्या"

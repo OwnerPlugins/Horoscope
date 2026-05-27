@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:20+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
+"Language: ga\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n==2 ? 1 : 2;\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Hailin ar Chlé"
+
+msgid "0 - Halign Right"
+msgstr "0 - Hailin Ar Dheis"
+
+msgid "AQUARIUS"
+msgstr "AN tUisceadóir"
+
+msgid "ARIES"
+msgstr "AIRÍ"
+
+msgid "CANCER"
+msgstr "AILSE"
+
+msgid "CAPRICORN"
+msgstr ""
+
+msgid "Close"
+msgstr "Dún"
+
+msgid "GEMINI"
+msgstr ""
+
+msgid "Global Horoscope"
+msgstr "Horoscope Domhanda"
+
+msgid "Horoscope v.%s"
+msgstr ""
+
+msgid "Information"
+msgstr "Eolas"
+
+msgid "LEO"
+msgstr ""
+
+msgid "LIBRA"
+msgstr "LEABHAR"
+
+msgid "PISCES"
+msgstr "iasc"
+
+msgid "Please Select"
+msgstr "Roghnaigh le do thoil"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Fan go fóill, ag nascadh leis an bhfreastalaí..."
+
+msgid "Read"
+msgstr "Léigh"
+
+msgid "SAGITTARIUS"
+msgstr ""
+
+msgid "SCORPIO"
+msgstr ""
+
+msgid "Select"
+msgstr "Roghnaigh"
+
+msgid "TAURUS"
+msgstr ""
+
+msgid "VIRGO"
+msgstr "Maighdean"

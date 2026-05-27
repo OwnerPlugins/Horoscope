@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:23+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - გასწორება მარცხნივ"
+
+msgid "0 - Halign Right"
+msgstr "0 - გასწორება მარჯვნივ"
+
+msgid "AQUARIUS"
+msgstr "მერწყული"
+
+msgid "ARIES"
+msgstr "ვერძი"
+
+msgid "CANCER"
+msgstr "კიბო"
+
+msgid "CAPRICORN"
+msgstr "თხის რქა"
+
+msgid "Close"
+msgstr "დახურვა"
+
+msgid "GEMINI"
+msgstr "ტყუპები"
+
+msgid "Global Horoscope"
+msgstr "გლობალური ჰოროსკოპი"
+
+msgid "Horoscope v.%s"
+msgstr "ჰოროსკოპი v.%s"
+
+msgid "Information"
+msgstr "ინფორმაცია"
+
+msgid "LEO"
+msgstr "ლომი"
+
+msgid "LIBRA"
+msgstr "სასწორი"
+
+msgid "PISCES"
+msgstr "თევზი"
+
+msgid "Please Select"
+msgstr "გთხოვთ აირჩიეთ"
+
+msgid "Please wait, connecting to the server..."
+msgstr "გთხოვთ დაელოდოთ, სერვერთან დაკავშირება..."
+
+msgid "Read"
+msgstr "წაიკითხეთ"
+
+msgid "SAGITTARIUS"
+msgstr "მშვილდოსანი"
+
+msgid "SCORPIO"
+msgstr "მორიელი"
+
+msgid "Select"
+msgstr "აირჩიეთ"
+
+msgid "TAURUS"
+msgstr "კურო"
+
+msgid "VIRGO"
+msgstr "ქალწული"

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-05-27 18:27+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "0 - Halign Left"
+msgstr "0 - Links uitlijnen"
+
+msgid "0 - Halign Right"
+msgstr "0 - Rechts uitlijnen"
+
+msgid "AQUARIUS"
+msgstr "WATERMAN"
+
+msgid "ARIES"
+msgstr "RAM"
+
+msgid "CANCER"
+msgstr "KANKER"
+
+msgid "CAPRICORN"
+msgstr "STEENBOK"
+
+msgid "Close"
+msgstr "Dichtbij"
+
+msgid "GEMINI"
+msgstr "TWEELING"
+
+msgid "Global Horoscope"
+msgstr "Mondiale horoscoop"
+
+msgid "Horoscope v.%s"
+msgstr "Horoscoop v.%s"
+
+msgid "Information"
+msgstr "Informatie"
+
+msgid "LEO"
+msgstr "LEEUW"
+
+msgid "LIBRA"
+msgstr "WEEGSCHAAL"
+
+msgid "PISCES"
+msgstr "vis"
+
+msgid "Please Select"
+msgstr "Selecteer alstublieft"
+
+msgid "Please wait, connecting to the server..."
+msgstr "Even geduld, verbinding maken met de server..."
+
+msgid "Read"
+msgstr "Lezen"
+
+msgid "SAGITTARIUS"
+msgstr "BOOGSCHUTTER"
+
+msgid "SCORPIO"
+msgstr "SCHORPIOEN"
+
+msgid "Select"
+msgstr "Selecteer"
+
+msgid "TAURUS"
+msgstr "STIER"
+
+msgid "VIRGO"
+msgstr "MAAGD"
