@@ -139,7 +139,6 @@ def checkGZIP(url):
     from io import BytesIO  # Usa BytesIO per la compatibilità
     import gzip
     import requests
-    import sys
     if sys.version_info[0] == 3:
         from urllib.request import urlopen, Request
     else:
