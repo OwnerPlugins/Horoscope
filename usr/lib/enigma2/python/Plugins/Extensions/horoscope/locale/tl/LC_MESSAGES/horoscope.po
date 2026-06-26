@@ -34,7 +34,7 @@ msgid "GEMINI"
 msgstr ""
 
 msgid "Global Horoscope"
-msgstr ""
+msgstr "Pandaigdigang Horoscope"
 
 msgid "Horoscope v.%s"
 msgstr ""
