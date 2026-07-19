@@ -325,7 +325,7 @@ class hMain(Screen):
                 <eLabel backgroundColor="green" cornerRadius="3" position="342,1064" size="300,6" zPosition="11" />
                 <widget name="key_red" position="32,1016" size="300,45" zPosition="11" font="lsat; 30" valign="center" halign="center" backgroundColor="background" transparent="1" foregroundColor="white" />
                 <widget name="key_green" position="342,1016" size="300,45" zPosition="11" font="lsat; 30" valign="center" halign="center" backgroundColor="background" transparent="1" foregroundColor="white" />
-                <widget name="list" position="60,90" size="500,850" zPosition="5" scrollbarMode="showNever" font="lsat; 42" transparent="1" backgroundColor="#ffffff" foregroundColor="#ffccff" backgroundColorSelected="#743554" foregroundColorSelected="#ffffcc" />
+                <widget name="list" position="60,90" itemHeight="50" size="500,850" zPosition="5" scrollbarMode="showNever" font="lsat; 42" transparent="1" backgroundColor="#ffffff" foregroundColor="#ffccff" backgroundColorSelected="#743554" foregroundColorSelected="#ffffcc" />
                 <widget name="date" position="585,90" halign="center" size="745,65" zPosition="5" font="lsat; 42" valign="center" transparent="1" />
                 <widget name="lab1" position="1081,961" halign="center" size="819,50" zPosition="5" font="lsat; 36" valign="center" transparent="1" />
                 <widget name="lab2" position="585,400" halign="center" size="745,50" zPosition="5" font="lsat; 36" valign="top" transparent="1" />
