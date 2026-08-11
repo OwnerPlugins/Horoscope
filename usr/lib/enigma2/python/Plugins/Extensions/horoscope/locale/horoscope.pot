@@ -1,13 +1,5 @@
 #, fuzzy
 
-
-
-
-
-
-
-
-
 msgid "0 - Halign Left"
 msgstr ""
 
